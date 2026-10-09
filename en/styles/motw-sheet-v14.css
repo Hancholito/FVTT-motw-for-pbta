@@ -1,0 +1,317 @@
+/* =====================================================================
+   MotW – refonte de la fiche de personnage (v14)
+   Disposition : colonne gauche (portrait, attributs, notes), colonne droite
+   (jauges puis onglets). Portée : fiche personnage uniquement.
+   ===================================================================== */
+
+.pbta.sheet.character {
+  --motw-ink: #1d1b19;
+  --motw-accent: #8e2231;
+  --motw-accent-hover: #c15c6c;
+  --motw-card: #2b2b2b;
+  --motw-card-text: #f2efe9;
+  --motw-line: rgba(0, 0, 0, .35);
+  --motw-soft: rgba(0, 0, 0, .06);
+  --motw-left: 224px;
+}
+
+/* ---------- Grille générale ---------- */
+.pbta.sheet.character .sheet-wrapper {
+  display: grid;
+  grid-template-columns: var(--motw-left) minmax(0, 1fr);
+  grid-template-rows: auto auto auto 1fr;
+  column-gap: 14px;
+  row-gap: 10px;
+  align-content: start;
+  align-items: start;
+  height: auto;
+  min-height: 100%;
+}
+
+.pbta.sheet.character .sheet-wrapper :is(.sheet-top, .sheet-attributes, .sheet-bottom) {
+  display: contents;
+}
+
+.pbta.sheet.character .sheet-header { grid-column: 1 / -1; grid-row: 1; }
+.pbta.sheet.character .sheet-attributes .cell--image { grid-column: 1; grid-row: 2; }
+.pbta.sheet.character .sheet-attributes .cell--stats { grid-column: 1; grid-row: 3; }
+.pbta.sheet.character .sheet-attributes-top { grid-column: 2; grid-row: 2; align-self: stretch; }
+.pbta.sheet.character .sheet-bottom > section:first-child { grid-column: 1; grid-row: 4; }
+.pbta.sheet.character .sheet-main { grid-column: 2; grid-row: 3 / 5; min-width: 0; align-self: stretch; }
+
+/* ---------- En-tête (nom + livret) ---------- */
+.pbta.sheet.character .sheet-header__fields {
+  align-items: center;
+  gap: 8px;
+}
+.pbta.sheet.character .sheet-header .input--title {
+  font-size: 1.15rem;
+  font-weight: 700;
+}
+
+/* ---------- Portrait ---------- */
+.pbta.sheet.character .cell--image {
+  width: var(--motw-left);
+  height: var(--motw-left);
+  padding: 0;
+  overflow: hidden;
+  border: 2px solid var(--motw-ink);
+  background: rgba(0, 0, 0, .25);
+}
+.pbta.sheet.character .cell--image .profile-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border: 0;
+  cursor: pointer;
+}
+
+/* ---------- Attributs : barre verticale sous le portrait ---------- */
+.pbta.sheet.character .cell--stats { width: var(--motw-left); }
+.pbta.sheet.character .cell--stats .stats-list {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  margin: 0;
+  padding: 0;
+}
+.pbta.sheet.character .sheet-attributes .cell--stats .stat {
+  display: flex;
+  flex: none;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: 6px;
+  width: 100%;
+  min-height: 42px;
+  padding: 2px 8px 2px 4px;
+  box-sizing: border-box;
+  background: var(--motw-card);
+  border: 2px solid var(--motw-card);
+  border-left: 5px solid var(--motw-accent);
+  color: var(--motw-card-text);
+  cursor: pointer;
+}
+.pbta.sheet.character .sheet-attributes .cell--stats .stat:hover {
+  background: var(--motw-accent);
+  border-color: var(--motw-accent);
+  border-left-color: #fff;
+}
+.pbta.sheet.character .sheet-attributes .cell--stats .stat .cell__title {
+  flex: 1 1 0;
+  min-width: 0;
+  width: auto;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  height: auto;
+  margin: 0;
+  padding: 0;
+  font: 1.75rem '3rdMan';
+  color: var(--motw-card-text);
+  text-align: left;
+  justify-content: flex-start;
+  border: 0;
+}
+.pbta.sheet.character .sheet-attributes .cell--stats .stat .stat-icon {
+  width: 30px;
+  height: 30px;
+  font-size: 24px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+.pbta.sheet.character .sheet-attributes .cell--stats .stat .stat-value {
+  flex: 0 0 54px;
+  width: 54px;
+  height: 32px;
+  padding: 0;
+  text-align: center;
+  font-size: 1.25rem;
+  font-weight: 700;
+  background: #fff;
+  color: var(--motw-ink);
+  border: 1px solid #000;
+}
+
+/* ---------- Jauges : dégâts / instable / chance / expérience ---------- */
+.pbta.sheet.character .sheet-attributes-top {
+  border: 0;
+  margin: 0;
+  padding: 0;
+}
+.pbta.sheet.character .sheet-attributes-top .cell--attributes-top {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-auto-rows: 1fr;
+  gap: 8px 14px;
+  height: 100%;
+}
+.pbta.sheet.character .sheet-attributes-top .cell--attributes-top > .cell {
+  flex: none;
+  min-width: 0;
+  padding: 6px 10px 8px;
+  background: var(--motw-soft);
+  border: 1px solid var(--motw-line);
+  border-top: 3px solid var(--motw-accent);
+}
+.pbta.sheet.character .sheet-attributes-top .cell--attributes-top > .cell::before { display: none; }
+.pbta.sheet.character .cell--attributes-top .cell__title {
+  font: 1.55rem '3rdMan';
+  justify-content: flex-start;
+  padding: 0;
+  margin: 0 0 2px;
+  border: 0;
+}
+.pbta.sheet.character .cell--attributes-top .cell__description {
+  margin: 0 0 4px;
+  font-size: .72rem;
+  line-height: 1.2;
+  opacity: .8;
+}
+.pbta.sheet.character .cell--attributes-top input[type="checkbox"],
+.pbta.sheet.character .cell--attributes-top input[type="radio"] {
+  margin: 2px 3px;
+}
+
+/* ---------- Colonne gauche : armure, notes ---------- */
+.pbta.sheet.character .cell--attributes-left .cell__title {
+  font: 1.35rem '3rdMan';
+  margin: 8px 0 3px;
+  padding-bottom: 1px;
+  border-bottom: 2px solid var(--motw-ink);
+}
+.pbta.sheet.character .cell--attributes-left .cell__description {
+  font-size: .72rem;
+  line-height: 1.2;
+  margin: 0 0 3px;
+}
+.pbta.sheet.character .cell--attributes-left input[type="text"] {
+  height: 26px;
+  text-align: center;
+  font-weight: 700;
+}
+.pbta.sheet.character .cell--attributes-left .editor-content,
+.pbta.sheet.character .cell--attributes-left .editor {
+  min-height: 52px;
+  font-size: .85rem;
+}
+
+/* ---------- Onglets ---------- */
+.pbta.sheet.character .sheet-tabs.tabs {
+  gap: 6px;
+  margin: 0 0 8px;
+  border-bottom: 3px solid var(--motw-ink);
+  padding-bottom: 0;
+}
+.pbta.sheet.character .sheet-tabs.tabs a.item {
+  flex: 1;
+  height: 38px;
+  margin: 0;
+  font-size: 1.55rem;
+  border-bottom: 0;
+  border-radius: 3px 3px 0 0;
+}
+
+/* ---------- Compteurs (+1 à suivre / continu / réserve) ---------- */
+.pbta.sheet.character .sheet-resources { gap: 8px; margin-bottom: 8px; }
+.pbta.sheet.character .sheet-resources .cell { padding: 2px 6px 4px; }
+.pbta.sheet.character .sheet-resources .cell__title {
+  font-size: .8rem;
+  font-weight: 700;
+  letter-spacing: .04em;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+/* ---------- Manœuvres ---------- */
+.pbta.sheet.character .cell--moves .cell__title {
+  font-size: 1rem;
+  letter-spacing: .06em;
+  text-transform: uppercase;
+  border-bottom: 2px solid var(--motw-ink);
+}
+.pbta.sheet.character .cell--moves .items-list > .item {
+  align-items: center;
+  padding: 2px 4px;
+  border-bottom: 1px solid var(--motw-line);
+  transition: background .12s;
+}
+.pbta.sheet.character .cell--moves .items-list > .item:nth-child(odd) { background: var(--motw-soft); }
+.pbta.sheet.character .cell--moves .items-list > .item:hover { background: rgba(142, 34, 49, .14); }
+.pbta.sheet.character .cell--moves .item-name .item-label {
+  font-size: 1.02rem;
+  font-weight: 700;
+  letter-spacing: .02em;
+}
+/* La description se lit dans l'infobulle : plus de menu déroulant */
+.pbta.sheet.character .tab.moves .item-description { display: none !important; }
+.pbta.sheet.character .tab.moves .item-label .item-details-toggle { display: none; }
+
+/* ---------- Infobulle de manœuvre ---------- */
+.motw-tooltip {
+  position: fixed;
+  z-index: 100000;
+  width: min(480px, 92vw);
+  padding: 10px 14px 12px;
+  background: #f6f1e6;
+  color: #1d1b19;
+  border: 2px solid #1d1b19;
+  border-left: 6px solid #8e2231;
+  border-radius: 3px;
+  box-shadow: 0 6px 22px rgba(0, 0, 0, .5);
+  font-family: var(--font-primary, 'Signika', sans-serif);
+  font-size: .92rem;
+  line-height: 1.35;
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity .1s;
+}
+.motw-tooltip.visible { opacity: 1; }
+.motw-tooltip .motw-tt-title {
+  margin: 0 0 6px;
+  font: 1.6rem '3rdMan';
+  letter-spacing: .02em;
+  border-bottom: 2px solid #1d1b19;
+}
+.motw-tooltip p { margin: 0 0 4px; }
+.motw-tooltip .result {
+  margin-top: 6px;
+  padding: 3px 8px 4px;
+  border-left: 4px solid #777;
+  background: rgba(0, 0, 0, .05);
+}
+.motw-tooltip .result-label { display: block; font-size: .8rem; letter-spacing: .05em; text-transform: uppercase; }
+.motw-tooltip .result--success { border-left-color: #2f7d4a; }
+.motw-tooltip .result--partial { border-left-color: #c28a1c; }
+.motw-tooltip .result--failure { border-left-color: #8e2231; }
+.motw-tooltip .result-content p:last-child { margin-bottom: 0; }
+
+/* Apparence cliquable (onglet Description) */
+.motw-look { margin: 0 0 12px; padding: 8px 10px 10px; border-top: 3px solid var(--motw-accent, #8e2231); background: rgba(255,255,255,.35); }
+.motw-look__title { margin: 0 0 6px; }
+.motw-look__group { display: flex; flex-wrap: wrap; gap: 5px; margin: 0 0 6px; }
+.motw-look__opt { width: auto; line-height: 1.2; padding: 3px 9px; border: 1px solid #6b6258; border-radius: 12px; background: #f4efe4; color: #2b2622; font-size: 12px; cursor: pointer; box-shadow: none; }
+.motw-look__opt:hover { background: #e6dcc6; }
+.motw-look__opt.on { background: #8e2231; border-color: #5d1620; color: #f4efe4; }
+.motw-look__stat.on { background: #8e2231; }
+.motw-look__history { display: flex; flex-direction: column; gap: 5px; margin: 0 0 6px; }
+.motw-look__link { display: grid; grid-template-columns: 1fr 190px; gap: 10px; align-items: center; font-size: 12px; }
+.motw-look__link input { height: 24px; font-size: 12px; }
+.motw-look__levels { margin: 0 0 8px; }
+.motw-lvl h4 { margin: 10px 0 4px; }
+.motw-imp-list { display: flex; flex-wrap: wrap; gap: 5px; }
+.motw-imp { width: auto; padding: 3px 9px; font-size: 12px; line-height: 1.2; border: 1px solid #6b6258; border-radius: 12px; background: #f4efe4; color: #2b2622; cursor: pointer; }
+.motw-imp:hover:not([disabled]) { background: #e6dcc6; }
+.motw-imp[disabled] { opacity: .45; cursor: default; }
+.motw-imp.done { background: #8e2231; color: #f4efe4; opacity: .8; }
+.motw-look__opt[disabled] { cursor: default; }
+.motw-look__stat[disabled]:not(.on) { opacity: .45; }
+.motw-look__stat.on[disabled] { opacity: 1; }
+.motw-look__gm { margin: 4px 0 6px; }
+input.motw-locked { background: transparent; cursor: not-allowed; }
+.motw-imp.sel { background: #8e2231; border-color: #5d1620; color: #f4efe4; }
+/* Étiquettes : masquer l'avertissement « tags dépréciés » de PbtA */
+.pbta.sheet.item.tag .sheet-notifications { display: none !important; }
+/* Niveau non modifiable à la main */
+input.motw-level-locked { pointer-events: none; background: transparent; }
