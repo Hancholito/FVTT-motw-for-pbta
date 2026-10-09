@@ -1,5 +1,7 @@
 <div align="center">
 
+![*English version here*](https://github.com/Hancholito/FVTT-motw-for-ptba/blob/main/README.en.md) 
+
 # 🌙 Monster of the Week pour Foundry VTT v14
 ### *Une fiche, des livrets, une cabane pleine de monstres.*
 
