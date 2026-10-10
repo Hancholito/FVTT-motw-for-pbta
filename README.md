@@ -1,6 +1,6 @@
 <div align="center">
 
-![*English version here*](https://github.com/Hancholito/FVTT-motw-for-ptba/blob/main/README.en.md) 
+🇬🇧 [English version](README.en.md)
 
 # 🌙 Monster of the Week pour Foundry VTT v14
 ### *Une fiche, des livrets, une cabane pleine de monstres.*
@@ -19,7 +19,7 @@
 ## Le pitch
 
 Les monstres ne prennent pas de vacances, les mises à jour de Foundry non plus.
-Ce module reprend le travail de [Rangertheman](https://github.com/Rangertheman/motw-for-pbta) (déprécié, bloqué à Foundry v12) et le remet d'aplomb pour **Foundry VTT v14** et le système **Powered by the Apocalypse 1.2.0+**, avec une fiche repensée, un compendium d'équipement, des icônes partout, et une vraie **édition française**.
+Ce module reprend le travail de [Rangertheman](https://github.com/Rangertheman/motw-for-pbta) (déprécié, bloqué à Foundry v13) et le remet d'aplomb pour **Foundry VTT v14** et le système **Powered by the Apocalypse 1.2.0+**, avec une fiche repensée, un compendium d'équipement, des icônes partout, et une vraie **édition française**.
 
 Vous incarnez les chasseurs, le Gardien tient les monstres. Nous, on s'occupe de la paperasse.
 
@@ -53,8 +53,8 @@ Les 18 livrets : manœuvres de base, autres manœuvres, Tome of Mysteries, Hardc
 | | Édition française | English edition |
 |---|---|---|
 | Identifiant | `motw-for-pbta` | `motw-for-pbta-en` |
-| Contenu | 24 compendiums traduits + *Jouer un chasseur* | textes d'origine + Equipment compendium |
-| Manifeste | `https://github.com/Hancholito/FVTT-motw-for-ptba/releases/latest/download/module-fr.json` | `https://github.com/Hancholito/FVTT-motw-for-ptba/releases/latest/download/module-en.json` |
+| Contenu | 24 compendiums traduits + *Jouer un chasseur* | Original version + Equipment compendium |
+| Manifeste | `https://github.com/Hancholito/FVTT-motw-for-pbta/releases/latest/download/module-fr.json` | `https://github.com/Hancholito/FVTT-motw-for-pbta/releases/latest/download/module-en.json` |
 
 ⚠️ N'activez qu'**une seule** des deux dans un même monde, et jamais avec le module d'origine : elles configurent les mêmes fiches.
 
@@ -64,20 +64,14 @@ Les 18 livrets : manœuvres de base, autres manœuvres, Tome of Mysteries, Hardc
 2. Collez l'URL du manifeste de l'édition voulue (tableau ci-dessus) et validez.
 3. Créez ou ouvrez un monde **Powered by the Apocalypse** (système [pbta](https://gitlab.com/asacolips-projects/foundry-mods/pbta) d'Asacolips, version 1.2.0 ou plus), puis activez le module.
 
-Besoin d'un coup de main pour une installation manuelle ? Décompressez l'archive de la dernière [release](https://github.com/Hancholito/FVTT-motw-for-ptba/releases) dans `Data/modules/`.
+Besoin d'un coup de main pour une installation manuelle ? Décompressez l'archive de la dernière [release](https://github.com/Hancholito/FVTT-motw-for-pbta/releases) dans `Data/modules/`.
 
 ## Chantiers en cours
 
 - **Montée de niveau** : c'est un *work in progress*. La sélection des améliorations sera affinée dans une prochaine version.
 - Les étiquettes utilisent encore un type d'objet que PbtA juge déprécié ; son bandeau d'avertissement est simplement masqué.
 
-Une idée, un bug, un monstre mal élevé ? Ouvrez une [issue](https://github.com/Hancholito/FVTT-motw-for-ptba/issues).
-
----
-
-## In English
-
-An unofficial, free **Foundry VTT v14** edition of the Monster of the Week module for the Powered by the Apocalypse system: new sheet layout, clickable Look / Ratings / History on the Description tab, automated level-up, an Equipment compendium (~210 items), about 680 icons, and all the playbooks. Install the `motw-for-pbta-en` edition for English texts, the `motw-for-pbta` one for French. Enable only one of them, and never alongside the original module.
+Une idée, un bug, un monstre mal élevé ? Ouvrez une [issue](https://github.com/Hancholito/FVTT-motw-for-pbta/issues).
 
 ---
 

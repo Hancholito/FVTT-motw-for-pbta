@@ -1,70 +1,91 @@
-## Description
+<div align="center">
 
-An unofficial, free **Foundry VTT v14** edition of the Monster of the Week module for Asacolips' Powered by the Apocalypse (PbtA) system. It adds the Monster of the Week playbooks, moves, tags and an equipment compendium, and configures the actor and NPC sheets for Monster of the Week.
+🇫🇷 [Version française](README.md)
 
-It is based on [motw-for-pbta](https://github.com/Rangertheman/motw-for-pbta) by Rangertheman (base version 0.4.5, Foundry v12) and includes the playbooks from Monster of the Week: Tome of Mysteries and the Hardcover Edition, plus Special (Luck) Moves, More Flexible Investigations, and Alternative Weird Basic Moves.
+# 🌙 Monster of the Week for Foundry VTT v14
+### *A sheet, playbooks, and a cabin full of monsters.*
 
-This module has its own id (`motw-for-pbta-en`). **Do not enable it together with the original `motw-for-pbta` module or with the French edition**: they configure the same sheets and would conflict.
+![Foundry v14](https://img.shields.io/badge/Foundry%20VTT-v14-informational?style=flat-square)
+![PbtA 1.2.0+](https://img.shields.io/badge/PbtA-1.2.0%2B-8a2be2?style=flat-square)
+![Free](https://img.shields.io/badge/price-free-brightgreen?style=flat-square)
+![FR / EN](https://img.shields.io/badge/languages-FR%20%7C%20EN-orange?style=flat-square)
 
-## What this edition adds
+*Unofficial, free module, published with Michael Sands' permission.*
 
-- Compatible with Foundry VTT v14 and PbtA system 1.2.0 or later.
-- New character sheet layout: attributes in a column under the portrait, compact gauges (Harm, Unstable, Luck, Experience), move descriptions in a tooltip on hover.
-- **Equipment compendium** (about 210 items): weapons, armour, transport, gear, base attacks and options, with their tags. The gear lists in the playbooks link to these items.
-- **Icons** for about 680 moves, items, improvement tags and playbooks (see credits below).
-- **Description tab helpers** on the character sheet: the playbook's *Look* choices, *Ratings* lines and *History* links are clickable (a ratings line sets all five ratings at once and is then locked; the GM can unlock it; each History link has a field for the character's name).
-- **Level-up helper**: the arrow next to the level (active when the five experience boxes are marked) opens the playbook's improvement list and applies ratings, moves and Luck automatically. The level field can only be edited by the GM.
-- The “deprecated tags” notice of PbtA is hidden on tag items.
+</div>
+
+---
+
+## The pitch
+
+Monsters don't take holidays, and neither do Foundry updates.
+This module picks up the work of [Rangertheman](https://github.com/Rangertheman/motw-for-pbta) (deprecated, stuck on Foundry v13) and gets it back on its feet for **Foundry VTT v14** and the **Powered by the Apocalypse 1.2.0+** system, with a redesigned sheet, an equipment compendium, icons everywhere, and a proper **French edition**.
+
+You play the hunters, the Keeper runs the monsters. We'll deal with the paperwork.
+
+## What you get
+
+**🎭 A more readable character sheet**
+Attributes in a column under the portrait, gauges (Harm, Unstable, Luck, Experience) grouped together, move descriptions in a tooltip on hover.
+
+**🖱️ A Description tab that works for you**
+- *Look*: the playbook's choices are buttons, carried over to the sheet without overwriting your notes.
+- *Ratings*: one click on a line applies all five values at once, then the line locks (the GM keeps the key).
+- *History*: each link has its own field to note the name of the character involved.
+
+**⬆️ Level-up**
+The arrow next to the level lights up when all five experience boxes are marked. It opens the playbook's improvements and applies ratings, moves and Luck. Only the GM can edit the level by hand.
+
+**🗡️ An Equipment compendium**
+200+ items (weapons, armour, transport, gear, base attacks, options) with their tags. The playbooks' gear lists link straight to them.
+
+**🎨 About 680 icons**
+Moves, items, improvement tags, playbooks: each has its own pictogram, colour-coded by category.
+
+**📖 Playing a Hunter** *(French edition)*
+The rulebook chapter on playing a hunter (pp. 105–137), translated and split into journal entries you can consult in play.
+
+**🧛 All the playbooks**
+The 18 playbooks: basic moves, other moves, Tome of Mysteries, Hardcover Edition, Luck moves, more flexible investigations, alternative weird basic moves.
+
+## Two editions
+
+| | French edition | English edition |
+|---|---|---|
+| Id | `motw-for-pbta` | `motw-for-pbta-en` |
+| Content | 24 translated compendiums + *Playing a Hunter* | Original version + Equipment compendium |
+| Manifest | `https://github.com/Hancholito/FVTT-motw-for-pbta/releases/latest/download/module-fr.json` | `https://github.com/Hancholito/FVTT-motw-for-pbta/releases/latest/download/module-en.json` |
+
+⚠️ Enable only **one** of the two in a given world, and never alongside the original module: they configure the same sheets.
 
 ## Installation
 
-Install the module from the manifest URL provided with the release (or unzip the package into `Data/modules/`), then enable it in your world. The following Foundry VTT game system must be installed: [Powered by the Apocalypse](https://gitlab.com/asacolips-projects/foundry-mods/pbta), by Asacolips.
+1. In Foundry, open **Add-on Modules → Install Module**.
+2. Paste the manifest URL of the edition you want (table above) and confirm.
+3. Create or open a **Powered by the Apocalypse** world (Asacolips' [pbta](https://gitlab.com/asacolips-projects/foundry-mods/pbta) system, version 1.2.0 or later), then enable the module.
 
-When removing the module, the settings in the “System Settings” page remain; use the “Reset to Defaults” button there to revert them.
+Need a hand with a manual install? Unzip the archive from the latest [release](https://github.com/Hancholito/FVTT-motw-for-pbta/releases) into `Data/modules/`.
 
-### Icon credits
+## Work in progress
 
-The pictograms come from the free library **[game-icons.net](https://game-icons.net)**, licensed under
-[Creative Commons BY 3.0](https://creativecommons.org/licenses/by/3.0/) (some CC0). They have been recoloured and placed
-on a coloured background; the silhouettes remain the work of their authors:
+- **Level-up**: this is a *work in progress*. The selection of improvements will be refined in a future version.
+- Tags still use an item type that PbtA considers deprecated; its warning banner is simply hidden.
 
-- **Lorc** — 110 icon(s)
-- **Delapouite** — 97 icon(s)
-- **Skoll** — 11 icon(s)
-- **sbed** — 10 icon(s)
-- **DarkZaitzev** — 2 icon(s)
-- **Faithtoken** — 2 icon(s)
-- **Caro Asercion** — 2 icon(s)
-- **Carl Olsen** — 2 icon(s)
-- **Various artists (game-icons.net “badges” collection)** — 2 icon(s)
-- **SeregaCthtuf** — 1 icon(s)
-- **Zeromancer (CC0)** — 1 icon(s)
-- **Andy Meneely** — 1 icon(s)
-- **John Colburn** — 1 icon(s)
-- **Various artists (game-icons.net “various-artists” collection)** — 1 icon(s)
+An idea, a bug, a badly behaved monster? Open an [issue](https://github.com/Hancholito/FVTT-motw-for-pbta/issues).
 
+---
 
-The detail of the icons used and their authors is in `icons/CREDITS.json`. Thanks to all these artists.
+## Credits and licences
 
-## Known issues and ideas
+- **Monster of the Week** is created by Michael Sands, © Generic Games / Evil Hat Productions. This module is made with his permission, as long as it stays free. It is not an official product.
+- Original module: [motw-for-pbta](https://github.com/Rangertheman/motw-for-pbta) by Krister Persson (Rangertheman), MIT licence.
+- PbtA system for Foundry: Asacolips.
+- Additional playbooks: *Tome of Mysteries* (The Gumshoe: Mark Tygart, The Hex: Bruno Dias, The Pararomantic: Michał Werder, The Searcher: Michael Sands), *Hardcover Edition* (The Snoop, The Spooktacular: Michael Sands).
+- Icons: [game-icons.net](https://game-icons.net) (CC BY 3.0, some CC0), recoloured. Authors are listed in `icons/CREDITS.json`.
+- Used under Generic Games' [Third Party License](https://genericgames.co.nz/third_party_policy/).
 
-- **Level-up:** this part is a work in progress and will be improved in a future version.
-- Tags (the “Tags” compendium) still use the item type PbtA considers deprecated; the warning notice is hidden.
-- The French edition also contains a journal compendium with the “Playing a Hunter” chapter of the rulebook; it is not part of this English edition.
+<div align="center">
 
-## Credits
+*Happy hunting. And keep a Luck box in reserve.*
 
-* This module has been made possible with the kind and express permission of Michael Sands.
-* Monster of the Week is created by Michael Sands. Monster of the Week is copyrighted by Evil Hat Productions, LLC and Generic Games.
-* Tome of Mysteries text and artwork are copyright © 2018-2019 Michael Sands, Generic Games, Evil Hat Productions, LLC and their respective creators.
-* Monster of the Week: Codex of Worlds text and artwork are copyright © 2023 Michael Sands, Generic Games, Evil Hat Productions LLC, and their respective creators.
-* The Powered by the Apocalypse system for Foundry VTT is created and maintained by Asacolips.
-* For Tome of Mysteries [ToM]: The Gumshoe (Mark Tygart), The Hex (Bruno Dias), The Pararomantic (Michał Werder), The Searcher (Michael Sands). For the Hardcover Edition [HE]: The Snoop and The Spooktacular (Michael Sands). Codex of Worlds [CoW]: Marek Golonka (co-author).
-
-## Licensing
-
-This module is for use with Monster of the Week by Michael Sands and is used under Generic Games' [Third Party License](https://genericgames.co.nz/third_party_policy/). The module and its iterations are free of charge.
-
-MIT License - Copyright (c) 2023 Rangertheman
-
-Please note that this is not an official product of Michael Sands, Evil Hat or Generic Games.
+</div>
