@@ -3,6 +3,19 @@
 Toutes les modifications apportées depuis la version de base (**0.4.5**, motw-for-pbta de Rangertheman, Foundry v12).
 Le format suit [Keep a Changelog](https://keepachangelog.com/fr/).
 
+## [0.13.0] — Dix livrets supplémentaires
+### Ajouté
+- **Dix livrets supplémentaires** (édition française), issus du PDF « Livrets de chasseurs supplémentaires » : La Créature, Le Dur à Cuire, Le Fureteur, L'Exilé, Le Gamin Fouinard, Le Luchador, Le Savant Fou, L'Invoqué, Le Chasseur de Gros Gibier et Le Scientifique Déchaîné. Chaque livret est dans le compendium **Livrets** et a son propre compendium de manœuvres, repérable au suffixe « [Suppl.] ».
+- Les livrets suivent la même structure que les autres : Apparence et Caractéristiques cliquables, manœuvres et équipement liés aux compendiums, Histoire, et montée de niveau automatisée (le +1 de caractéristique, la manœuvre d'un autre livret et la Chance sont appliqués).
+- Compendium **Équipement** : 91 objets ajoutés (armes, gadgets, véhicules, armure scientifique).
+- Compendium **Étiquettes** : 31 étiquettes d'amélioration propres à ces livrets.
+- 10 nouvelles icônes de livret et un fichier `icons/CREDITS.json` qui recense l'auteur de chaque icône.
+### Corrigé
+- Montée de niveau : « Gagner +1 en Futé » est désormais reconnue (le é n'était pas pris en compte).
+### À savoir
+- Le Fureteur est une autre traduction du livret Le Fouineur de l'édition Hardcover : les deux sont conservés.
+- Les nouveaux livrets ne sont pas encore disponibles dans l'édition anglaise.
+
 ## [0.12.0] — Jouer un chasseur
 ### Ajouté
 - Nouveau compendium **Jouer un chasseur** (entrées de journal) : traduction française du chapitre « Prêt à l'action » du manuel (p. 105 à 137). Sept entrées avec une page par sous-section : se préparer à l'action, comment jouer, manœuvres de base (avec grande magie et combats), dégâts et guérison (dont résurrection et Chance), équipement (étiquettes d'armes, armes personnalisées, armures), gagner des niveaux (améliorations de base, avancées et propres aux livrets) et résumé de séance. Les manœuvres de base citées renvoient vers les manœuvres du compendium.

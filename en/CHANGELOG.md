@@ -2,6 +2,16 @@
 
 All changes made since the base version (**0.4.5**, motw-for-pbta by Rangertheman, Foundry v12). The English edition shares its version numbers with the French edition.
 
+## [0.13.0] — English edition
+### Added
+- 9 extra playbooks, each with its own move compendium, gear and tags: The Creature, The Tough, The Exile, The Nosy Kid, The Luchador, The Mad Scientist, The Summoned, The Big Game Hunter and The Unleashed Scientist (labelled "[Extra]").
+- The Snooper is not duplicated: the existing Snoop [HE] covers it.
+- New equipment items and tags linked from the new playbooks.
+### Note
+- These playbooks are an unofficial translation from the French supplementary playbooks; names and wording may differ from any official English text.
+### Changed
+- Level-up: "Get +1 X" improvements now parse correctly.
+
 ## [0.12.0] — English edition
 ### Added
 - First English edition of the v14 module (id `motw-for-pbta-en`), built from the original English texts.

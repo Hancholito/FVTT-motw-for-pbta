@@ -24,7 +24,7 @@ async function lists(actor) {
 const state = (actor) => ({ taken: actor.getFlag(MOD, 'taken') ?? [], pending: actor.getFlag(MOD, 'pending') ?? 0 });
 const statVal = (actor, k) => Number(actor.system.stats?.[k]?.value ?? 0);
 const statMax = (name) => Number(/max\s*\+?(\d)/i.exec(name)?.[1] ?? 3);
-const fixedStat = (name) => { const m = /^Gagner \+1 en (\w+)/i.exec(name); return m ? STATS[m[1].toLowerCase()] : null; };
+const fixedStat = (name) => { const m = /^Gagner \+1 en (\p{L}+)/iu.exec(name); return m ? STATS[m[1].toLowerCase()] : null; };
 const anyStat = (name) => /^Gagner \+1 à (une|n’importe)/i.test(name);
 
 async function pickStat(actor, max) {

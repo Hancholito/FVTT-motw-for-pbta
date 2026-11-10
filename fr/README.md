@@ -4,6 +4,8 @@ An add-on module for Asacolips' Powered by the Apocalypse (PbtA) system for Foun
 
 The module also includes playbooks from Monster of the Week: Tome of Mysteries, and MotW: Hardcover Edition, plus Special (Luck) Moves, More Flexible Investigations, and Alternative Weird Basic Moves.
 
+The French edition also includes ten extra playbooks (La Créature, Le Dur à Cuire, Le Fureteur, L'Exilé, Le Gamin Fouinard, Le Luchador, Le Savant Fou, L'Invoqué, Le Chasseur de Gros Gibier, Le Scientifique Déchaîné), from the French PDF "Livrets de chasseurs supplémentaires". Their authors, where credited: Reid San Filippo (La Créature, Le Luchador, Le Savant Fou, Le Chasseur de Gros Gibier) and Steve Hickey (L'Invoqué).
+
 ## Installation
 
 * Install

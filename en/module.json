@@ -12,7 +12,7 @@
       "flags": {}
     }
   ],
-  "version": "0.12.0",
+  "version": "0.13.0",
   "compatibility": {
     "minimum": "14",
     "verified": "14"
@@ -268,11 +268,119 @@
       "system": "pbta",
       "private": false,
       "flags": {}
+    },
+    {
+      "label": "The Creature [Extra]",
+      "type": "Item",
+      "name": "the-creature-ext",
+      "path": "packs/the-creature-ext",
+      "system": "pbta",
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "label": "The Hardcase [Extra]",
+      "type": "Item",
+      "name": "the-hardboiled-ext",
+      "path": "packs/the-hardboiled-ext",
+      "system": "pbta",
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "label": "The Exile [Extra]",
+      "type": "Item",
+      "name": "the-exile-ext",
+      "path": "packs/the-exile-ext",
+      "system": "pbta",
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "label": "The Meddling Kid [Extra]",
+      "type": "Item",
+      "name": "the-nosy-kid-ext",
+      "path": "packs/the-nosy-kid-ext",
+      "system": "pbta",
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "label": "The Luchador [Extra]",
+      "type": "Item",
+      "name": "the-luchador-ext",
+      "path": "packs/the-luchador-ext",
+      "system": "pbta",
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "label": "The Mad Scientist [Extra]",
+      "type": "Item",
+      "name": "the-mad-scientist-ext",
+      "path": "packs/the-mad-scientist-ext",
+      "system": "pbta",
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "label": "The Summoned [Extra]",
+      "type": "Item",
+      "name": "the-summoned-ext",
+      "path": "packs/the-summoned-ext",
+      "system": "pbta",
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "label": "The Big Game Hunter [Extra]",
+      "type": "Item",
+      "name": "the-big-game-hunter-ext",
+      "path": "packs/the-big-game-hunter-ext",
+      "system": "pbta",
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "label": "The Unleashed Scientist [Extra]",
+      "type": "Item",
+      "name": "the-unleashed-scientist-ext",
+      "path": "packs/the-unleashed-scientist-ext",
+      "system": "pbta",
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     }
   ],
   "url": "https://github.com/Hancholito/FVTT-motw-for-pbta",
   "bugs": "https://github.com/Hancholito/FVTT-motw-for-pbta/issues",
   "readme": "https://github.com/Hancholito/FVTT-motw-for-pbta#readme",
   "manifest": "https://github.com/Hancholito/FVTT-motw-for-pbta/releases/latest/download/module-en.json",
-  "download": "https://github.com/Hancholito/FVTT-motw-for-pbta/releases/download/v0.12.0/motw-for-pbta-en.zip"
+  "download": "https://github.com/Hancholito/FVTT-motw-for-pbta/releases/download/v0.13.0/motw-for-pbta-en.zip"
 }

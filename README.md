@@ -1,7 +1,5 @@
 <div align="center">
 
-🇬🇧 [English version](README.en.md)
-
 # 🌙 Monster of the Week pour Foundry VTT v14
 ### *Une fiche, des livrets, une cabane pleine de monstres.*
 
@@ -19,7 +17,7 @@
 ## Le pitch
 
 Les monstres ne prennent pas de vacances, les mises à jour de Foundry non plus.
-Ce module reprend le travail de [Rangertheman](https://github.com/Rangertheman/motw-for-pbta) (déprécié, bloqué à Foundry v13) et le remet d'aplomb pour **Foundry VTT v14** et le système **Powered by the Apocalypse 1.2.0+**, avec une fiche repensée, un compendium d'équipement, des icônes partout, et une vraie **édition française**.
+Ce module reprend le travail de [Rangertheman](https://github.com/Rangertheman/motw-for-pbta) (déprécié, bloqué à Foundry v12) et le remet d'aplomb pour **Foundry VTT v14** et le système **Powered by the Apocalypse 1.2.0+**, avec une fiche repensée, un compendium d'équipement, des icônes partout, et une vraie **édition française**.
 
 Vous incarnez les chasseurs, le Gardien tient les monstres. Nous, on s'occupe de la paperasse.
 
@@ -46,14 +44,14 @@ Manœuvres, objets, étiquettes d'amélioration, livrets : chacun a son pictogra
 Le chapitre « Prêt à l'action » du manuel (p. 105-137), traduit et découpé en entrées de journal consultables en jeu.
 
 **🧛 Tous les livrets**
-Les 18 livrets : manœuvres de base, autres manœuvres, Tome of Mysteries, Hardcover Edition, manœuvres de Chance, enquêtes plus flexibles, manœuvres étranges alternatives.
+Les 18 livrets du manuel, du Tome of Mysteries et de l'Hardcover Edition, plus **10 livrets supplémentaires** en édition française (La Créature, Le Dur à Cuire, Le Fureteur, L'Exilé, Le Gamin Fouinard, Le Luchador, Le Savant Fou, L'Invoqué, Le Chasseur de Gros Gibier, Le Scientifique Déchaîné). Sans oublier les manœuvres de base, de Chance, les enquêtes plus flexibles et les manœuvres étranges alternatives.
 
 ## Deux éditions
 
 | | Édition française | English edition |
 |---|---|---|
 | Identifiant | `motw-for-pbta` | `motw-for-pbta-en` |
-| Contenu | 24 compendiums traduits + *Jouer un chasseur* | Original version + Equipment compendium |
+| Contenu | 34 compendiums traduits (dont 10 livrets supplémentaires) + *Jouer un chasseur* | textes d'origine + Equipment compendium + 9 livrets supplémentaires (traduction non officielle) |
 | Manifeste | `https://github.com/Hancholito/FVTT-motw-for-pbta/releases/latest/download/module-fr.json` | `https://github.com/Hancholito/FVTT-motw-for-pbta/releases/latest/download/module-en.json` |
 
 ⚠️ N'activez qu'**une seule** des deux dans un même monde, et jamais avec le module d'origine : elles configurent les mêmes fiches.
@@ -64,14 +62,20 @@ Les 18 livrets : manœuvres de base, autres manœuvres, Tome of Mysteries, Hardc
 2. Collez l'URL du manifeste de l'édition voulue (tableau ci-dessus) et validez.
 3. Créez ou ouvrez un monde **Powered by the Apocalypse** (système [pbta](https://gitlab.com/asacolips-projects/foundry-mods/pbta) d'Asacolips, version 1.2.0 ou plus), puis activez le module.
 
-Besoin d'un coup de main pour une installation manuelle ? Décompressez l'archive de la dernière [release](https://github.com/Hancholito/FVTT-motw-for-pbta/releases) dans `Data/modules/`.
+Besoin d'un coup de main pour une installation manuelle ? Décompressez l'archive de la dernière [release](../../releases) dans `Data/modules/`.
 
 ## Chantiers en cours
 
 - **Montée de niveau** : c'est un *work in progress*. La sélection des améliorations sera affinée dans une prochaine version.
 - Les étiquettes utilisent encore un type d'objet que PbtA juge déprécié ; son bandeau d'avertissement est simplement masqué.
 
-Une idée, un bug, un monstre mal élevé ? Ouvrez une [issue](https://github.com/Hancholito/FVTT-motw-for-pbta/issues).
+Une idée, un bug, un monstre mal élevé ? Ouvrez une [issue](../../issues).
+
+---
+
+## In English
+
+An unofficial, free **Foundry VTT v14** edition of the Monster of the Week module for the Powered by the Apocalypse system: new sheet layout, clickable Look / Ratings / History on the Description tab, automated level-up, an Equipment compendium (~210 items), about 680 icons, and all the playbooks (the French edition also carries ten extra playbooks; the English ones will follow). Install the `motw-for-pbta-en` edition for English texts, the `motw-for-pbta` one for French. Enable only one of them, and never alongside the original module.
 
 ---
 
@@ -81,6 +85,7 @@ Une idée, un bug, un monstre mal élevé ? Ouvrez une [issue](https://github.co
 - Module d'origine : [motw-for-pbta](https://github.com/Rangertheman/motw-for-pbta) de Krister Persson (Rangertheman), licence MIT.
 - Système PbtA pour Foundry : Asacolips.
 - Livrets additionnels : *Tome of Mysteries* (Le Privé : Mark Tygart, L'Envoûteur : Bruno Dias, Le Pararomantique : Michał Werder, Le Chercheur : Michael Sands), *Hardcover Edition* (Le Fouineur, Le Spectaculaire : Michael Sands).
+- Livrets supplémentaires (édition française) : La Créature, Le Luchador, Le Savant Fou et Le Chasseur de Gros Gibier de Reid San Filippo, L'Invoqué de Steve Hickey ; Le Dur à Cuire, Le Fureteur, L'Exilé, Le Gamin Fouinard et Le Scientifique Déchaîné (auteurs non crédités dans le PDF source).
 - Icônes : [game-icons.net](https://game-icons.net) (CC BY 3.0, certaines CC0), recolorées. Détail des auteurs dans `icons/CREDITS.json`.
 - Utilisé selon la [Third Party License](https://genericgames.co.nz/third_party_policy/) de Generic Games.
 

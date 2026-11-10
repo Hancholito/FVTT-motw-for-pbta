@@ -2,7 +2,7 @@
 
 An unofficial, free **Foundry VTT v14** edition of the Monster of the Week module for Asacolips' Powered by the Apocalypse (PbtA) system. It adds the Monster of the Week playbooks, moves, tags and an equipment compendium, and configures the actor and NPC sheets for Monster of the Week.
 
-It is based on [motw-for-pbta](https://github.com/Rangertheman/motw-for-pbta) by Rangertheman (base version 0.4.5, Foundry v12) and includes the playbooks from Monster of the Week: Tome of Mysteries and the Hardcover Edition, plus Special (Luck) Moves, More Flexible Investigations, and Alternative Weird Basic Moves.
+It is based on [motw-for-pbta](https://github.com/Rangertheman/motw-for-pbta) by Rangertheman (base version 0.4.5, Foundry v12) and includes the playbooks from Monster of the Week: Tome of Mysteries and the Hardcover Edition, plus Special (Luck) Moves, More Flexible Investigations, and Alternative Weird Basic Moves. Version 0.13.0 adds 9 extra playbooks (labelled "[Extra]"), translated unofficially from the French supplementary playbooks.
 
 This module has its own id (`motw-for-pbta-en`). **Do not enable it together with the original `motw-for-pbta` module or with the French edition**: they configure the same sheets and would conflict.
 
