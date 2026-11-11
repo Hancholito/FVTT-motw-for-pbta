@@ -4,6 +4,9 @@ All changes made since the base version (**0.4.5**, motw-for-pbta by Rangerthema
 
 ## [0.13.0] — English edition
 ### Added
+- **Character creation assistant**: once the playbook and moves are chosen, the sheet switches to the Description tab (look and ratings), then to the Equipment tab, where a window offers the playbook's gear.
+- The window grants the fixed items (laptop, armour, etc.), then asks for the playbook's choices ("pick two weapons from…") and enforces the exact number. The gear rules for all 27 playbooks are in `data/gear-rules.json`.
+- Progress is remembered: a "Character creation" banner lets players resume at any time if they close a window. Only the GM can end the creation early, or reopen the gear window from the Equipment tab.
 - 9 extra playbooks, each with its own move compendium, gear and tags: The Creature, The Tough, The Exile, The Nosy Kid, The Luchador, The Mad Scientist, The Summoned, The Big Game Hunter and The Unleashed Scientist (labelled "[Extra]").
 - The Snooper is not duplicated: the existing Snoop [HE] covers it.
 - New equipment items and tags linked from the new playbooks.

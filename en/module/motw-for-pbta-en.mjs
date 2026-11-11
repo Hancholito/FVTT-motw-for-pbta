@@ -4,6 +4,7 @@ import {
 import { registerMoveTooltips } from "./motw-sheet-tooltips.mjs";
 import { registerLookPicker } from "./motw-sheet-look.mjs";
 import { registerLevelUp } from "./motw-sheet-levelup.mjs";
+import { registerCreation } from "./motw-sheet-creation.mjs";
 
 // once the game has initialized, set up the module
 Hooks.once('init', () => {
@@ -11,6 +12,7 @@ Hooks.once('init', () => {
    registerMoveTooltips();
    registerLookPicker();
    registerLevelUp();
+  registerCreation();
 
    // register MotW settings
    game.settings.register('motw-for-pbta-en', 'settings-override', {

@@ -5,6 +5,9 @@ Le format suit [Keep a Changelog](https://keepachangelog.com/fr/).
 
 ## [0.13.0] — Dix livrets supplémentaires
 ### Ajouté
+- **Assistant de création de personnage** : une fois le livret et les manœuvres choisis, la fiche passe automatiquement sur l'onglet Description (apparence et caractéristiques), puis sur l'onglet Équipement où une fenêtre propose le matériel du livret.
+- Cette fenêtre donne d'office les objets fournis (ordinateur portable, armure, etc.), puis demande les choix du livret (« deux armes parmi… », etc.) avec le nombre exact imposé. Les règles de matériel des 28 livrets sont dans `data/gear-rules.json`.
+- L'avancement est mémorisé : un bandeau « Création du personnage » permet de reprendre à tout moment si on ferme une fenêtre. Seul le MJ peut terminer la création sans tout faire, ou relancer la fenêtre de matériel depuis l'onglet Équipement.
 - **Dix livrets supplémentaires** (édition française), issus du PDF « Livrets de chasseurs supplémentaires » : La Créature, Le Dur à Cuire, Le Fureteur, L'Exilé, Le Gamin Fouinard, Le Luchador, Le Savant Fou, L'Invoqué, Le Chasseur de Gros Gibier et Le Scientifique Déchaîné. Chaque livret est dans le compendium **Livrets** et a son propre compendium de manœuvres, repérable au suffixe « [Suppl.] ».
 - Les livrets suivent la même structure que les autres : Apparence et Caractéristiques cliquables, manœuvres et équipement liés aux compendiums, Histoire, et montée de niveau automatisée (le +1 de caractéristique, la manœuvre d'un autre livret et la Chance sont appliqués).
 - Compendium **Équipement** : 91 objets ajoutés (armes, gadgets, véhicules, armure scientifique).

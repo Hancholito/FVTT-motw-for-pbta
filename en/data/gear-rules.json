@@ -1,0 +1,1736 @@
+{
+ "the-big-game-hunter": {
+  "fixed": [],
+  "groups": [
+   {
+    "title": "Big game weapons",
+    "min": 1,
+    "max": 1,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.9LGvMpMPLTQIw0G1",
+      "name": "High-tech bow/crossbow"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.1uLhQ8GrfSfkrOK3",
+      "name": "Heavy-calibre rifle"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.vLCHq9Hut5p07uX3",
+      "name": "Net launcher"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.pAIlX704H2liD33J",
+      "name": "Elephant gun"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.EpN0FadIYVzk37aj",
+      "name": "Tranquilizer dart rifle"
+     }
+    ]
+   },
+   {
+    "title": "Backup weapons",
+    "min": 2,
+    "max": 2,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.NkNco0miwmMFXAmQ",
+      "name": ".38 revolver"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.6kA6xnTLKjF9vgo4",
+      "name": "Shotgun"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.cvwRhMjCUcwT99aB",
+      "name": "Hunting rifle"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.E4ShQaThfxJJeRke",
+      "name": "9mm"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.QuexXYGnyrtqKaEh",
+      "name": "Survival knife"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.LLNwlGyECYKPHwqT",
+      "name": "Spear"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.HH50HNS3TvvyrTlp",
+      "name": "Machete"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.wzCaN91Lu7ujqLyV",
+      "name": "Bolas"
+     }
+    ]
+   },
+   {
+    "title": "Vehicle (optional)",
+    "min": 0,
+    "max": 1,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.97XGOxnW2BwMWibz",
+      "name": "Jeep (or high-quality off-road vehicle)"
+     }
+    ]
+   }
+  ]
+ },
+ "the-chosen": {
+  "fixed": [
+   {
+    "uuid": "Compendium.motw-for-pbta-en.the-chosen.Item.hMLWMPiCUeJlMdEe",
+    "name": "The Chosen: Special Weapon"
+   }
+  ],
+  "groups": [
+   {
+    "title": "Protective gear (optional)",
+    "min": 0,
+    "max": 1,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.4vmqBZqfEJMVOaCS",
+      "name": "Protective outfit"
+     }
+    ]
+   }
+  ]
+ },
+ "the-creature": {
+  "fixed": [],
+  "groups": [
+   {
+    "title": "Heavy weapons",
+    "min": 1,
+    "max": 1,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.IJb9W9HrXvndhhzK",
+      "name": "Mace (Creature)"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.PTDkNxwE2RS23gMK",
+      "name": "Big sword"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.jvkj2LlQKZYyoUf1",
+      "name": "Magnum"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.Kp06hjC1MFCEBRQK",
+      "name": "Shotgun"
+     }
+    ]
+   },
+   {
+    "title": "Additional weapons",
+    "min": 1,
+    "max": 1,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.NkNco0miwmMFXAmQ",
+      "name": ".38 revolver"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.E4ShQaThfxJJeRke",
+      "name": "9mm"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.BO9HOZ7G5FzkyKfg",
+      "name": "Sword"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.LCjtHCkUiMKbLrmh",
+      "name": "Big knife"
+     }
+    ]
+   }
+  ]
+ },
+ "the-crooked": {
+  "fixed": [],
+  "groups": [
+   {
+    "title": "Gear",
+    "min": 3,
+    "max": 3,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.IKNX5cb8Nsr6Bu5T",
+      "name": ".22 revolver"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.NkNco0miwmMFXAmQ",
+      "name": ".38 revolver"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.E4ShQaThfxJJeRke",
+      "name": "9mm"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.Kp06hjC1MFCEBRQK",
+      "name": "Shotgun"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.cvwRhMjCUcwT99aB",
+      "name": "Hunting rifle"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.LCjtHCkUiMKbLrmh",
+      "name": "Big knife"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.UrT0oYCQ0eOzk1HG",
+      "name": "Baseball bat"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.NcHRSYVbPbH4nxXi",
+      "name": "Submachinegun"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.FkUaIYZqtFCxG8s4",
+      "name": "Assault rifle"
+     }
+    ]
+   }
+  ]
+ },
+ "the-divine": {
+  "fixed": [
+   {
+    "uuid": "Compendium.motw-for-pbta-en.the-divine.Item.wP3d2tf1fqEBTIik",
+    "name": "Divine armour"
+   }
+  ],
+  "groups": [
+   {
+    "title": "Divine weapons",
+    "min": 1,
+    "max": 1,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta-en.the-divine.Item.CxNMt0Ku01jA2PSR",
+      "name": "Five Demon Bag"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.the-divine.Item.D4NAqZaClDUN1QOk",
+      "name": "Flaming Sword"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.the-divine.Item.g3a4uSyvL434uaNw",
+      "name": "Razor Whip"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.the-divine.Item.xyFSfcaKLYMrDnOC",
+      "name": "Silver Trident"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.the-divine.Item.xWwDtj8bsyFBweJO",
+      "name": "Thunder Hammer"
+     }
+    ]
+   }
+  ]
+ },
+ "the-exile": {
+  "fixed": [],
+  "groups": [
+   {
+    "title": "Ancient weapons",
+    "min": 3,
+    "max": 3,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.BO9HOZ7G5FzkyKfg",
+      "name": "Sword"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.Z4wQkmXh32RqlpZ5",
+      "name": "Axe"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.PTDkNxwE2RS23gMK",
+      "name": "Big sword"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.ckIoCWi17hJ5NSRf",
+      "name": "Big axe (Exile)"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.cMqXJf1xn319yKYL",
+      "name": "Shield"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.i2KTbF6JWAMsPUpY",
+      "name": "Silver knife"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.lQ6oDRuITsz8ST1K",
+      "name": "Bow"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.OGT8aq1OucKhZQcI",
+      "name": "Crossbow"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.f1B8vC73eoRpiiFm",
+      "name": "Blunderbuss"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.3CkWhESJzqKXrjwu",
+      "name": "Arquebus"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.LLNwlGyECYKPHwqT",
+      "name": "Spear (Exile)"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.LCjtHCkUiMKbLrmh",
+      "name": "Big knife"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.j2M5HsUa6phlnxMr",
+      "name": "Club"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.rjSKUQa870Hrabz3",
+      "name": "Martial arts"
+     }
+    ]
+   }
+  ]
+ },
+ "the-expert": {
+  "fixed": [],
+  "groups": [
+   {
+    "title": "Gear",
+    "min": 3,
+    "max": 3,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.gqHwznDkXBkQlduI",
+      "name": "Mallet & wooden stakes"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.XblYm3SgVr14X9kM",
+      "name": "Silver sword"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.KoNCeiX2jpWVudHm",
+      "name": "Cold iron sword"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.gh4Xx2b9PWDWoCRg",
+      "name": "Blessed knife"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.fv48AiwQHWGKklog",
+      "name": "Magical dagger"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.KY3z48QVuj7F5GGb",
+      "name": "Juju bag"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.ciScSOgClIp2luGK",
+      "name": "Flamethrower"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.jvkj2LlQKZYyoUf1",
+      "name": "Magnum"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.Kp06hjC1MFCEBRQK",
+      "name": "Shotgun"
+     }
+    ]
+   }
+  ]
+ },
+ "the-flake": {
+  "fixed": [],
+  "groups": [
+   {
+    "title": "Normal weapons",
+    "min": 1,
+    "max": 1,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.NkNco0miwmMFXAmQ",
+      "name": ".38 revolver"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.E4ShQaThfxJJeRke",
+      "name": "9mm"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.cvwRhMjCUcwT99aB",
+      "name": "Hunting rifle"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.jvkj2LlQKZYyoUf1",
+      "name": "Magnum"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.Kp06hjC1MFCEBRQK",
+      "name": "Shotgun"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.LCjtHCkUiMKbLrmh",
+      "name": "Big knife"
+     }
+    ]
+   },
+   {
+    "title": "Hidden weapons",
+    "min": 2,
+    "max": 2,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.VIhbFlo2tR9rYMuM",
+      "name": "Throwing knives"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.itK2w8sxvsBCWcMq",
+      "name": "Holdout pistol"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.c8uh8lOvZDTGh3Lo",
+      "name": "Garrote"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.tos319cB7ASrYt8T",
+      "name": "Watchman’s flashlight"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.LNsJbg2FLW1Ix7SG",
+      "name": "Weighted gloves/brass knuckles"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.U4CD06mqTiuyiXnd",
+      "name": "Butterfly knife/folding knife"
+     }
+    ]
+   }
+  ]
+ },
+ "the-gumshoe": {
+  "fixed": [
+   {
+    "uuid": "Compendium.motw-for-pbta-en.equipment.Item.mOurf3vVqKzzuTDC",
+    "name": "Laptop"
+   },
+   {
+    "uuid": "Compendium.motw-for-pbta-en.equipment.Item.yMqCa9vXtGDAX6jQ",
+    "name": "Hip flask"
+   }
+  ],
+  "groups": [
+   {
+    "title": "Recording devices",
+    "min": 2,
+    "max": 2,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.XE6Xms2lE5tji7SG",
+      "name": "Night vision camera"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.nJb2qIaOJDY6y57o",
+      "name": "Tiny digital video camera"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.cdCji3mVXmjx1tu5",
+      "name": "Film camera (8mm or 16mm)"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.7hKND3DSoPdmNUuZ",
+      "name": "Digital sound recorder"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.YlcwlVux74uhIMLW",
+      "name": "Cassette tape recorder"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.J5ubyfKJT8dWzEoD",
+      "name": "Remote-controlled camera drone"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.cdW5TlrxCUS0NDEo",
+      "name": "Laser microphone"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.iSe8iS6FK2x1I7p8",
+      "name": "SLR camera"
+     }
+    ]
+   },
+   {
+    "title": "P.I. Weapons",
+    "min": 1,
+    "max": 1,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.3f5mxRtgisIp3S9x",
+      "name": "Brass knuckles"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.NkNco0miwmMFXAmQ",
+      "name": ".38 revolver"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.E4ShQaThfxJJeRke",
+      "name": "9mm"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.jvkj2LlQKZYyoUf1",
+      "name": "Magnum"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.Kp06hjC1MFCEBRQK",
+      "name": "Shotgun"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.mpSzwC2VnROp0VpE",
+      "name": "Switchblade"
+     }
+    ]
+   }
+  ]
+ },
+ "the-hardboiled": {
+  "fixed": [],
+  "groups": [
+   {
+    "title": "Hardcase weapons",
+    "min": 1,
+    "max": 1,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.d33i7RHNBMXY8Lnj",
+      "name": "Crowbar (Hardcase)"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.8NVmgXD6lZtTDI2d",
+      "name": "Chainsaw"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.GU7moRymxMCYPDvT",
+      "name": "Automatic shotgun"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.vg6KsCTAOTRkEJ5b",
+      "name": "Big-ass knife"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.1243QYrHxVVyBVVv",
+      "name": "Hand cannon"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.iXNA0TR6tcGtNWRh",
+      "name": "Submachine gun (Hardcase)"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.4zL1DKGX6y8PynaK",
+      "name": "Worn assault rifle"
+     }
+    ]
+   },
+   {
+    "title": "Normal weapons",
+    "min": 2,
+    "max": 2,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.NkNco0miwmMFXAmQ",
+      "name": ".38 revolver"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.6kA6xnTLKjF9vgo4",
+      "name": "Shotgun (Hardcase)"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.cvwRhMjCUcwT99aB",
+      "name": "Hunting rifle"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.E4ShQaThfxJJeRke",
+      "name": "9mm"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.LCjtHCkUiMKbLrmh",
+      "name": "Big knife"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.jvkj2LlQKZYyoUf1",
+      "name": "Magnum"
+     }
+    ]
+   }
+  ]
+ },
+ "the-hex": {
+  "fixed": [],
+  "groups": [
+   {
+    "title": "Wizardly weapons",
+    "min": 2,
+    "max": 2,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.NkNco0miwmMFXAmQ",
+      "name": ".38 revolver"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.Kp06hjC1MFCEBRQK",
+      "name": "Shotgun"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.nFYi26aShni3h1fJ",
+      "name": "Athame"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.CncbYbrXQoeu0dA6",
+      "name": "Shillelagh"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.OGT8aq1OucKhZQcI",
+      "name": "Crossbow"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.GPljTT78pgB1I5P6",
+      "name": "Staff"
+     }
+    ]
+   }
+  ]
+ },
+ "the-initiate": {
+  "fixed": [
+   {
+    "uuid": "Compendium.motw-for-pbta-en.equipment.Item.oiwYvGwbVRI6vplc",
+    "name": "Old-fashioned armour"
+   }
+  ],
+  "groups": [
+   {
+    "title": "Old-fashioned weapons",
+    "min": 2,
+    "max": 3,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.BO9HOZ7G5FzkyKfg",
+      "name": "Sword"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.Z4wQkmXh32RqlpZ5",
+      "name": "Axe"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.PTDkNxwE2RS23gMK",
+      "name": "Big sword"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.K7EMDc24emKakeQH",
+      "name": "Big axe"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.i2KTbF6JWAMsPUpY",
+      "name": "Silver knife"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.omxRxMaL0TWd60RK",
+      "name": "Fighting sticks"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.IKOCfap257iQ6I1e",
+      "name": "Spear"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.MRaW74TiJYmocZML",
+      "name": "Mace"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.OGT8aq1OucKhZQcI",
+      "name": "Crossbow"
+     }
+    ]
+   },
+   {
+    "title": "Modern weapons",
+    "min": 1,
+    "max": 2,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.NkNco0miwmMFXAmQ",
+      "name": ".38 revolver"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.E4ShQaThfxJJeRke",
+      "name": "9mm"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.5vgViDJ4WdXMSWFC",
+      "name": "Sniper rifle"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.jvkj2LlQKZYyoUf1",
+      "name": "Magnum"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.Kp06hjC1MFCEBRQK",
+      "name": "Shotgun"
+     }
+    ]
+   }
+  ],
+  "total": 3
+ },
+ "the-luchador": {
+  "fixed": [],
+  "groups": [
+   {
+    "title": "Normal weapons",
+    "min": 2,
+    "max": 2,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.NkNco0miwmMFXAmQ",
+      "name": ".38 revolver"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.E4ShQaThfxJJeRke",
+      "name": "9mm"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.Kp06hjC1MFCEBRQK",
+      "name": "Shotgun"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.3gTiP0BpeXfgp0cm",
+      "name": "Heavy chain"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.dZEGwjbXXzh1I87V",
+      "name": "Mace (Luchador)"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.LCjtHCkUiMKbLrmh",
+      "name": "Big knife"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.rtxrQc73cqzFZHVn",
+      "name": "Brass knuckles (Luchador)"
+     }
+    ]
+   },
+   {
+    "title": "Classy vehicles",
+    "min": 1,
+    "max": 1,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.Q1iWRZZWjgQhTo2w",
+      "name": "Foreign sports car"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.sbNwGSfkZ6d1uXAJ",
+      "name": "Big off-road vehicle"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.8wDxtr7rnF1XcKnU",
+      "name": "Limousine and chauffeur"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.PUiGaXH4vs6OxZc6",
+      "name": "Custom motorcycle"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.xSehx9Hg8NE1YeUU",
+      "name": "Tuned van"
+     }
+    ]
+   }
+  ]
+ },
+ "the-mad-scientist": {
+  "fixed": [],
+  "groups": [
+   {
+    "title": "Weird Science weapons",
+    "min": 1,
+    "max": 1,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.emv6B9vyVLA8THea",
+      "name": "Atomic chainsaw"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.6G4Xn40zhL29kI77",
+      "name": "Electric claws"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.ILKdQNnbDXgoEoZl",
+      "name": "Electro-thruster"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.1IXPNnOJA3wPuzNn",
+      "name": "Sonic gun"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.foYnoj5croIB4W5P",
+      "name": "Slime gun"
+     }
+    ]
+   },
+   {
+    "title": "Additional weapons",
+    "min": 1,
+    "max": 1,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.NkNco0miwmMFXAmQ",
+      "name": ".38 revolver"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.E4ShQaThfxJJeRke",
+      "name": "9mm"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.Zmh26SBxLJknj4uF",
+      "name": "Bone saw"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.DYsMVEndt1FBmrLA",
+      "name": "Scalpel"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.9NtAYmiklU7ABxJY",
+      "name": "Syringe"
+     }
+    ]
+   }
+  ]
+ },
+ "the-nosy-kid": {
+  "fixed": [],
+  "groups": [
+   {
+    "title": "Mystery-solving gadgets",
+    "min": 3,
+    "max": 3,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.nIuHEnEHWdXTQiyM",
+      "name": "Magnifying glass"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.8LnzYGQtICvIAzdi",
+      "name": "Microscope"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.4DQ3aGL8Fdvixs0Q",
+      "name": "Van"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.GFaxzzdMmDe8qvQg",
+      "name": "Library card"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.fIgfde05JCoYq35w",
+      "name": "Amateur chemist kit"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.uptB65uNlNSathTP",
+      "name": "Two walkie-talkies"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.GqVDY9TIPLGkJ704",
+      "name": "Fingerprint kit"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.2OfYEpleBN8b4iTL",
+      "name": "Camera"
+     }
+    ]
+   }
+  ]
+ },
+ "the-monstrous": {
+  "fixed": [],
+  "groups": [
+   {
+    "title": "Handy weapon (optional)",
+    "min": 0,
+    "max": 1,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.NkNco0miwmMFXAmQ",
+      "name": ".38 revolver"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.E4ShQaThfxJJeRke",
+      "name": "9mm"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.jvkj2LlQKZYyoUf1",
+      "name": "Magnum"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.Kp06hjC1MFCEBRQK",
+      "name": "Shotgun"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.LCjtHCkUiMKbLrmh",
+      "name": "Big knife"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.xTWkZqvQDM0xpeaR",
+      "name": "Brass knuckles"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.BO9HOZ7G5FzkyKfg",
+      "name": "Sword"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.cNQ3yzXRoDdSBww3",
+      "name": "Huge sword"
+     }
+    ]
+   }
+  ]
+ },
+ "the-mundane": {
+  "fixed": [],
+  "groups": [
+   {
+    "title": "Mundane weapons",
+    "min": 2,
+    "max": 2,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.Cv7wVthdWp2WwpL8",
+      "name": "Golf club, baseball bat, cricket bat, or hockey stick"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.Fz2cW44AAAFFMrYV",
+      "name": "Pocket knife or multitool"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.nXscDFydvEQHFftu",
+      "name": "Small handgun"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.CM0oIQtHsUy9tTNa",
+      "name": "Hunting rifle"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.spXkGAMp6AZ5vyK4",
+      "name": "Sledge-hammer or fire axe"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.M5D5jjd9BcS98qLI",
+      "name": "Nunchuks"
+     }
+    ]
+   },
+   {
+    "title": "Means of transport",
+    "min": 1,
+    "max": 1,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta-en.the-mundane.Item.tEuDgyjHEGb79OVm",
+      "name": "Bicycle"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.the-mundane.Item.VXxCmizw3lhBWA5T",
+      "name": "Classic car in terrible condition"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.the-mundane.Item.p7Damzq8OTQUweqv",
+      "name": "Fairly new car in decent condition"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.the-mundane.Item.tAWLWgabHXmSgfHB",
+      "name": "Motorcycle"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.the-mundane.Item.ButprZwQkrgPbrOF",
+      "name": "Skateboard"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.the-mundane.Item.vms7In3NNAZJEfbZ",
+      "name": "Van"
+     }
+    ]
+   }
+  ]
+ },
+ "the-pararomantic": {
+  "fixed": [],
+  "groups": [
+   {
+    "title": "Normal things",
+    "min": 2,
+    "max": 2,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.Cv7wVthdWp2WwpL8",
+      "name": "Golf club, baseball bat, cricket bat, or hockey stick"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.Fz2cW44AAAFFMrYV",
+      "name": "Pocket knife or multitool"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.nXscDFydvEQHFftu",
+      "name": "Small handgun"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.eoMFxmTm8olEsNBt",
+      "name": "Bicycle"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.MvkmjvL5iSd34Wkp",
+      "name": "Fairly new car in decent condition"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.zMoyjbj2mTT1RixJ",
+      "name": "Motorcycle"
+     }
+    ]
+   },
+   {
+    "title": "Gift from your Guide",
+    "min": 1,
+    "max": 1,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta-en.the-pararomantic-tom.Item.5EHi6WkRSUUtK3sw",
+      "name": "Memento from the time they were human"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.the-pararomantic-tom.Item.I8ADZ7Y7Lraiexwn",
+      "name": "Part of their body"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.the-pararomantic-tom.Item.LMRfXmRjkInFbgJ6",
+      "name": "Piece of Jewelery"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.the-pararomantic-tom.Item.3HJ1w4gC63dtWp0D",
+      "name": "Strange or Antique Weapon"
+     }
+    ]
+   }
+  ]
+ },
+ "the-professional": {
+  "fixed": [],
+  "groups": [
+   {
+    "title": "Serious weapons",
+    "min": 1,
+    "max": 1,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.s29qpVbjf1XDVFpa",
+      "name": "Assault rifle"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.ZvHAoWTaNQvRNbkB",
+      "name": "Grenade launcher"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.4IAWDQOa0rP5MXRv",
+      "name": "Sniper rifle"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.jXNzAXIRJUWZVBRy",
+      "name": "Grenades"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.79evA2936pKvw9uC",
+      "name": "Submachine gun"
+     }
+    ]
+   },
+   {
+    "title": "Normal weapons",
+    "min": 2,
+    "max": 2,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.NkNco0miwmMFXAmQ",
+      "name": ".38 revolver"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.E4ShQaThfxJJeRke",
+      "name": "9mm"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.cvwRhMjCUcwT99aB",
+      "name": "Hunting rifle"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.Kp06hjC1MFCEBRQK",
+      "name": "Shotgun"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.LCjtHCkUiMKbLrmh",
+      "name": "Big knife"
+     }
+    ]
+   },
+   {
+    "title": "Protection",
+    "min": 1,
+    "max": 1,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.KCOOav0lYzd7ZuQA",
+      "name": "Bulletproof vest"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.2r6gJCwh5j7vVW0t",
+      "name": "Combat armour"
+     }
+    ]
+   }
+  ]
+ },
+ "the-searcher": {
+  "fixed": [
+   {
+    "uuid": "Compendium.motw-for-pbta-en.equipment.Item.mOurf3vVqKzzuTDC",
+    "name": "Laptop"
+   },
+   {
+    "uuid": "Compendium.motw-for-pbta-en.equipment.Item.2OfYEpleBN8b4iTL",
+    "name": "Camera"
+   },
+   {
+    "uuid": "Compendium.motw-for-pbta-en.equipment.Item.gKzeLKAoPPTipv5L",
+    "name": "Binoculars"
+   }
+  ],
+  "groups": [
+   {
+    "title": "Vehicle",
+    "min": 1,
+    "max": 1,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.MvkmjvL5iSd34Wkp",
+      "name": "Fairly new car in decent condition"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.zMoyjbj2mTT1RixJ",
+      "name": "Motorcycle"
+     }
+    ]
+   },
+   {
+    "title": "Investigation tools",
+    "min": 2,
+    "max": 2,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.tT0qfSCoBQRTjETq",
+      "name": "A bag of cameras & microphones"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.HEXxI1QAw7vObQB9",
+      "name": "Forensic tools"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.mdRShSqr3HXy8Ey0",
+      "name": "Ghost hunting tools"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.q9pzHvTG2zWJTXsL",
+      "name": "Scientific measuring tools"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.fqhPIh09USKV6jdU",
+      "name": "Cryptid hunting gear"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.RkhPbYeZ3L1TAikS",
+      "name": "Historical documents and witness reports of strange events"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.CCcjDS5vpBEsvwtI",
+      "name": "Maps, blueprints, and building reports for significant places"
+     }
+    ]
+   },
+   {
+    "title": "Self-defence weapons",
+    "min": 1,
+    "max": 1,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.4hW8QPCMAVSBjvSn",
+      "name": "Walking stick"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.nXscDFydvEQHFftu",
+      "name": "Small handgun"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.U6tnWmyf0DkpGQwg",
+      "name": "Small knife"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.fX6Kb9j2L6S77rAL",
+      "name": "Martial arts training"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.i18HQqTlOSPOIQd8",
+      "name": "Incapacitating spray"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.EGPcSRkXmQMGDo52",
+      "name": "Heavy flashlight"
+     }
+    ]
+   }
+  ]
+ },
+ "the-snoop": {
+  "fixed": [
+   {
+    "uuid": "Compendium.motw-for-pbta-en.equipment.Item.mOurf3vVqKzzuTDC",
+    "name": "Laptop"
+   }
+  ],
+  "groups": [
+   {
+    "title": "Recording devices",
+    "min": 3,
+    "max": 3,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.FcMdvG2MNuEa6FBc",
+      "name": "Video camera"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.FQzu6nxlrQUGZ1bf",
+      "name": "Tiny digital camera"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.4pAVuBSLiUdAZoxJ",
+      "name": "Film camera"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.F9kPdXbehBGvAGKP",
+      "name": "Digital recorder"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.ku3E6jtWBWyKd8ea",
+      "name": "Tape recorder"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.RGhErOUN2cdadAo6",
+      "name": "Infrared camera"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.7OboGnnbPWE60rjJ",
+      "name": "Pro sound gear"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.xC070KX28ws8OTi0",
+      "name": "Camera drone"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.TZLvTJ2Df9EmXOtf",
+      "name": "Starlight camera"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.W8uBfs7A8P6EgFUH",
+      "name": "Steadicam rig"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.cdW5TlrxCUS0NDEo",
+      "name": "Laser microphone"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.iSe8iS6FK2x1I7p8",
+      "name": "SLR camera"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.F81BWJLc8ykfp5yH",
+      "name": "Nice smartphone"
+     }
+    ]
+   },
+   {
+    "title": "Detectors",
+    "min": 2,
+    "max": 2,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.zKL2q8zl9isLHoZL",
+      "name": "Electromagnetic field detector"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.vRJ9XcgA29MvtkrC",
+      "name": "Temperature fluctuation detector"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.SrFW8Ei8mGRnX2MZ",
+      "name": "Ouija board"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.FqTGvKywcGFrEnw7",
+      "name": "Humidity meter"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.OEeJ6CI9aLtsFYgR",
+      "name": "Dowsing rods"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.r6ttLQD8ATLW6s6Z",
+      "name": "Chemistry test kit"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.mPHIpEXpdBMbvID1",
+      "name": "Metal detector"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.WEy9PEeJXW6n05yj",
+      "name": "Compass"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.nkHlV6eGh2rs3olb",
+      "name": "GPS receiver"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.kxT2JfK35Dk8MOzt",
+      "name": "Laser rangefinder"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.PyUMvYn4q9bv45cO",
+      "name": "Pendulum"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.rcMNHioIwWo8Avyp",
+      "name": "Tarot deck"
+     }
+    ]
+   },
+   {
+    "title": "Subtle weapons",
+    "min": 1,
+    "max": 1,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.GsjW79CRCFYwGJf9",
+      "name": "Multitool/pocket knife"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.6wJr4vPajWaomnvs",
+      "name": "Stun gun"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.7kFAzWYEYHG6o2Tk",
+      "name": "Baseball/cricket bat"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.WHY51Cck8m3KbYvh",
+      "name": "Handgun"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.hHO63rKMymQSkzc2",
+      "name": "Knife"
+     }
+    ]
+   }
+  ]
+ },
+ "the-spell-slinger": {
+  "fixed": [],
+  "groups": [
+   {
+    "title": "Gear",
+    "min": 1,
+    "max": 1,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.VHAoMggk58D8boGu",
+      "name": "Old revolver"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.788N6CABMekSLgNh",
+      "name": "Ritual knife"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.QarnE4CnE5dKJpRS",
+      "name": "Heirloom sword"
+     }
+    ]
+   }
+  ]
+ },
+ "the-spooktacular": {
+  "fixed": [
+   {
+    "uuid": "Compendium.motw-for-pbta-en.the-spooktacular-he.Item.LaZicqqjrlCu5T5g",
+    "name": "Paraphernalia"
+   }
+  ],
+  "groups": [
+   {
+    "title": "Camp tools",
+    "min": 1,
+    "max": 1,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.Fz2cW44AAAFFMrYV",
+      "name": "Pocket knife or multi-tool"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.aslYIMPjJiUvXWuL",
+      "name": "Mallet"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.xo0w03LjU2KPZg5B",
+      "name": "Crowbar"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.TSyGdjOQOiIEWNzm",
+      "name": "Baseball bat or similar"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.GJt3z3l9fsqRd6NG",
+      "name": "Hatchet"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.vz4KixYmHkm3v5l2",
+      "name": "Sock full of coins"
+     }
+    ]
+   },
+   {
+    "title": "Vehicles",
+    "min": 1,
+    "max": 1,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.kZXFN2Bg7hoSMqRl",
+      "name": "Pickup truck"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.4DQ3aGL8Fdvixs0Q",
+      "name": "Van"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.wmlwQlb7yOQ6xOuY",
+      "name": "Truck"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.4BYa3XhOGWv0zXnS",
+      "name": "Motorcycle & sidecar"
+     }
+    ]
+   },
+   {
+    "title": "Mystical item",
+    "min": 1,
+    "max": 1,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta-en.the-spooktacular-he.Item.MA454449Ls1liNsQ",
+      "name": "Ghost Shades"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.the-spooktacular-he.Item.opALcWUj3xsMlZcn",
+      "name": "Really Big Plush Dog (Animated)"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.the-spooktacular-he.Item.7XwXiUoP7lOPBiWW",
+      "name": "Returning 100"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.the-spooktacular-he.Item.6OUFWW6tx4WzHCGk",
+      "name": "Scamulet"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.the-spooktacular-he.Item.P18BGobNp3rIL4WX",
+      "name": "Wizard Tent"
+     }
+    ]
+   }
+  ]
+ },
+ "the-spooky": {
+  "fixed": [],
+  "groups": [
+   {
+    "title": "Normal weapons",
+    "min": 2,
+    "max": 2,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.NkNco0miwmMFXAmQ",
+      "name": ".38 revolver"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.E4ShQaThfxJJeRke",
+      "name": "9mm"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.cvwRhMjCUcwT99aB",
+      "name": "Hunting rifle"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.Kp06hjC1MFCEBRQK",
+      "name": "Shotgun"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.LCjtHCkUiMKbLrmh",
+      "name": "Big knife"
+     }
+    ]
+   }
+  ]
+ },
+ "the-summoned": {
+  "fixed": [],
+  "groups": [
+   {
+    "title": "Immense weapons",
+    "min": 1,
+    "max": 1,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.WDmWQWB1EMuUAx0b",
+      "name": "Huge calibre"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.ebfne17kGEcEvDDF",
+      "name": "Machine gun"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.ApAQ54j6p6wFSLrH",
+      "name": "Rocket launcher"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.d012tQb5Dk6hJIRP",
+      "name": "Giant infernal sword"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.LRN8Zpdn5p9nUQxA",
+      "name": "Automatic shotgun (Summoned)"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.P34exazCm0KBnm3N",
+      "name": "Red right hand"
+     }
+    ]
+   },
+   {
+    "title": "Heavy weapons",
+    "min": 2,
+    "max": 2,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.IJb9W9HrXvndhhzK",
+      "name": "Mace"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.PTDkNxwE2RS23gMK",
+      "name": "Big sword"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.ckIoCWi17hJ5NSRf",
+      "name": "Big axe"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.jvkj2LlQKZYyoUf1",
+      "name": "Magnum"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.xzLE8ZdKWdY5ZjbW",
+      "name": "Shotgun (Summoned)"
+     }
+    ]
+   }
+  ]
+ },
+ "the-unleashed-scientist": {
+  "fixed": [],
+  "groups": [
+   {
+    "title": "Scientific weapons",
+    "min": 2,
+    "max": 2,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.xW0YPBBXL6ip8wFk",
+      "name": "Lightning gun"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.dJLSEypcM5R6x77j",
+      "name": "Pocket particle accelerator"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.eeYM8MEjBIch20F1",
+      "name": "Laser cannon"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.BYuztIoRmH45BfWt",
+      "name": "Net launcher (Unleashed Scientist)"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.WOUBwjB37eqUdp4l",
+      "name": "Scalpel (Unleashed Scientist)"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.thAyAIxdfgEkDWnv",
+      "name": "Kinetic knife"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.z0Q6ktCWzrWs2Pvq",
+      "name": "Tranquilizer rifle"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.5Bq25Rz5IckZBMhw",
+      "name": "Stun ray pistol"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.i2tTMNrA1xiLFC1S",
+      "name": "Autonomous drone"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.owJ3pjDCA0roBu7k",
+      "name": "Atomic pistol"
+     }
+    ]
+   },
+   {
+    "title": "Scientific armour (optional)",
+    "min": 0,
+    "max": 1,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.azDdIx6nVOCrCV10",
+      "name": "Scientific armour"
+     }
+    ]
+   }
+  ]
+ },
+ "the-wronged": {
+  "fixed": [
+   {
+    "uuid": "Compendium.motw-for-pbta-en.equipment.Item.4vmqBZqfEJMVOaCS",
+    "name": "Protective outfit"
+   }
+  ],
+  "groups": [
+   {
+    "title": "Signature Weapons",
+    "min": 1,
+    "max": 1,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.WuaAnISGJg0wm66J",
+      "name": "Sawn-off shotgun"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.1243QYrHxVVyBVVv",
+      "name": "Hand cannon"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.R31ZImWd8zR1U7tp",
+      "name": "Fighting knife"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.oQSU5h0wgIEptIS0",
+      "name": "Huge sword or huge axe"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.77Asexj3uHGT12eo",
+      "name": "Enchanted dagger"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.8NVmgXD6lZtTDI2d",
+      "name": "Chainsaw"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.the-wronged.Item.FMPksyExLR47ly6v",
+      "name": "Specialist Weapons"
+     }
+    ]
+   },
+   {
+    "title": "Practical weapons",
+    "min": 2,
+    "max": 2,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.NkNco0miwmMFXAmQ",
+      "name": ".38 revolver"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.E4ShQaThfxJJeRke",
+      "name": "9mm"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.cvwRhMjCUcwT99aB",
+      "name": "Hunting rifle"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.Kp06hjC1MFCEBRQK",
+      "name": "Shotgun"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.LCjtHCkUiMKbLrmh",
+      "name": "Big knife"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.yPEx4s2J2K5fh9Zz",
+      "name": "Brass knuckles"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.G5S3DHeFdoYmgc0I",
+      "name": "Assault rifle"
+     }
+    ]
+   },
+   {
+    "title": "Vehicle (optional)",
+    "min": 0,
+    "max": 1,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.E02dPJzkfaPBMTNy",
+      "name": "Classic car"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.rDSFPTt6i8ZmZnIr",
+      "name": "Classic motorcycle"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.8Hd6wRBfyZ3mW6SW",
+      "name": "Ordinary pickup truck"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta-en.equipment.Item.2GE70XkBHEas4NVv",
+      "name": "Ordinary van"
+     }
+    ]
+   }
+  ]
+ }
+}

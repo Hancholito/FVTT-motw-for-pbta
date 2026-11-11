@@ -21,7 +21,7 @@ function parseStats(line) {
   return Object.keys(out).length === 5 ? out : null;
 }
 
-async function loadSections(uuid) {
+export async function loadSections(uuid) {
   if (!uuid) return null;
   if (cache.has(uuid)) return cache.get(uuid);
   let res = { look: [], stats: [], history: [] };

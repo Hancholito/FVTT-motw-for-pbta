@@ -1,0 +1,1875 @@
+{
+ "the-spooky": {
+  "fixed": [],
+  "groups": [
+   {
+    "title": "Armes normales",
+    "min": 2,
+    "max": 2,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.NkNco0miwmMFXAmQ",
+      "name": "Revolver .38"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.E4ShQaThfxJJeRke",
+      "name": "9 mm"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.cvwRhMjCUcwT99aB",
+      "name": "Fusil de chasse"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.Kp06hjC1MFCEBRQK",
+      "name": "Fusil à pompe"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.LCjtHCkUiMKbLrmh",
+      "name": "Grand couteau"
+     }
+    ]
+   }
+  ]
+ },
+ "the-hex": {
+  "fixed": [],
+  "groups": [
+   {
+    "title": "Armes de sorcier",
+    "min": 2,
+    "max": 2,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.NkNco0miwmMFXAmQ",
+      "name": "Revolver .38"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.Kp06hjC1MFCEBRQK",
+      "name": "Fusil à pompe"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.nFYi26aShni3h1fJ",
+      "name": "Athamé"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.CncbYbrXQoeu0dA6",
+      "name": "Gourdin irlandais"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.OGT8aq1OucKhZQcI",
+      "name": "Arbalète"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.GPljTT78pgB1I5P6",
+      "name": "Bâton"
+     }
+    ]
+   }
+  ]
+ },
+ "the-crooked": {
+  "fixed": [],
+  "groups": [
+   {
+    "title": "Équipement",
+    "min": 3,
+    "max": 3,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.IKNX5cb8Nsr6Bu5T",
+      "name": "Revolver .22"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.NkNco0miwmMFXAmQ",
+      "name": "Revolver .38"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.E4ShQaThfxJJeRke",
+      "name": "9 mm"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.Kp06hjC1MFCEBRQK",
+      "name": "Fusil à pompe"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.cvwRhMjCUcwT99aB",
+      "name": "Fusil de chasse"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.LCjtHCkUiMKbLrmh",
+      "name": "Grand couteau"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.UrT0oYCQ0eOzk1HG",
+      "name": "Batte de base-ball"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.NcHRSYVbPbH4nxXi",
+      "name": "Pistolet-mitrailleur"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.FkUaIYZqtFCxG8s4",
+      "name": "Fusil d’assaut"
+     }
+    ]
+   }
+  ]
+ },
+ "the-exile": {
+  "fixed": [],
+  "groups": [
+   {
+    "title": "Armes anciennes",
+    "min": 3,
+    "max": 3,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.MKOzOrpkHOsDcr7M",
+      "name": "Épée (Exilé)"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.1M4oOzCqJtskqjYV",
+      "name": "Hache (Exilé)"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.Kd5JmrReGvCD01x2",
+      "name": "Grosse épée"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.rqcFxvRHqoN9FqxW",
+      "name": "Grosse hache"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.2eac7oRLpnhFVCEK",
+      "name": "Bouclier"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.neGH9TrLgVdN9ot7",
+      "name": "Couteau en argent (Exilé)"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.Yj2dUX0f6YqNsuvW",
+      "name": "Arc"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.OGT8aq1OucKhZQcI",
+      "name": "Arbalète"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.UNHTwrsK0w6DnpFm",
+      "name": "Escopette"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.0wSx0kc7S1B2jPGE",
+      "name": "Arquebuse"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.32khp9dThJJL3IhZ",
+      "name": "Lance (Exilé)"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.ClMozjbv1OnkFomm",
+      "name": "Gros couteau"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.y7AigNRWM0Rz2dTX",
+      "name": "Gourdin"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.bdmpKaPBRrzZ3b0R",
+      "name": "Arts martiaux"
+     }
+    ]
+   }
+  ]
+ },
+ "the-expert": {
+  "fixed": [],
+  "groups": [
+   {
+    "title": "Équipement",
+    "min": 3,
+    "max": 3,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.gqHwznDkXBkQlduI",
+      "name": "Maillet et pieux en bois"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.XblYm3SgVr14X9kM",
+      "name": "Épée en argent"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.KoNCeiX2jpWVudHm",
+      "name": "Épée en fer froid"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.gh4Xx2b9PWDWoCRg",
+      "name": "Couteau béni"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.fv48AiwQHWGKklog",
+      "name": "Dague magique"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.KY3z48QVuj7F5GGb",
+      "name": "Sac de gris-gris"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.ciScSOgClIp2luGK",
+      "name": "Lance-flammes"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.jvkj2LlQKZYyoUf1",
+      "name": "Magnum"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.Kp06hjC1MFCEBRQK",
+      "name": "Fusil à pompe"
+     }
+    ]
+   }
+  ]
+ },
+ "the-initiate": {
+  "fixed": [
+   {
+    "uuid": "Compendium.motw-for-pbta.equipment.Item.oiwYvGwbVRI6vplc",
+    "name": "Armure d’un autre temps"
+   }
+  ],
+  "groups": [
+   {
+    "title": "Armes d’un autre temps",
+    "min": 2,
+    "max": 3,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.BO9HOZ7G5FzkyKfg",
+      "name": "Épée"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.Z4wQkmXh32RqlpZ5",
+      "name": "Hache"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.PTDkNxwE2RS23gMK",
+      "name": "Grande épée"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.K7EMDc24emKakeQH",
+      "name": "Grande hache"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.i2KTbF6JWAMsPUpY",
+      "name": "Couteau en argent"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.omxRxMaL0TWd60RK",
+      "name": "Bâtons de combat"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.IKOCfap257iQ6I1e",
+      "name": "Lance"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.MRaW74TiJYmocZML",
+      "name": "Masse d’armes"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.OGT8aq1OucKhZQcI",
+      "name": "Arbalète"
+     }
+    ]
+   },
+   {
+    "title": "Armes modernes",
+    "min": 1,
+    "max": 2,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.NkNco0miwmMFXAmQ",
+      "name": "Revolver .38"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.E4ShQaThfxJJeRke",
+      "name": "9 mm"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.5vgViDJ4WdXMSWFC",
+      "name": "Fusil de précision"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.jvkj2LlQKZYyoUf1",
+      "name": "Magnum"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.Kp06hjC1MFCEBRQK",
+      "name": "Fusil à pompe"
+     }
+    ]
+   }
+  ],
+  "total": 3
+ },
+ "the-summoned": {
+  "fixed": [],
+  "groups": [
+   {
+    "title": "Armes immenses",
+    "min": 1,
+    "max": 1,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.D4uBytGC0SvIKxSG",
+      "name": "Super gros calibre"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.J4lMtnssNY9AsOnd",
+      "name": "Mitrailleuse"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.WB8YbDc2ITcYb4PE",
+      "name": "Lance-roquettes"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.ThvPAFDVEFlVzWHO",
+      "name": "Épée infernale gigantesque"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.74zIfz4vu45KqLrJ",
+      "name": "Fusil de chasse automatique (Invoqué)"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.kgLJOEseIutl6UoJ",
+      "name": "Main droite rouge"
+     }
+    ]
+   },
+   {
+    "title": "Armes lourdes",
+    "min": 2,
+    "max": 2,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.MK88KmKVYNyvgtsE",
+      "name": "Masse"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.Kd5JmrReGvCD01x2",
+      "name": "Grosse épée"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.rqcFxvRHqoN9FqxW",
+      "name": "Grosse hache"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.jvkj2LlQKZYyoUf1",
+      "name": "Magnum"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.nuKc0frVHNfLtRXA",
+      "name": "Fusil à pompe (Invoqué)"
+     }
+    ]
+   }
+  ]
+ },
+ "the-chosen": {
+  "fixed": [
+   {
+    "uuid": "Compendium.motw-for-pbta.the-chosen.Item.hMLWMPiCUeJlMdEe",
+    "name": "L’Élu : arme spéciale"
+   }
+  ],
+  "groups": [
+   {
+    "title": "Protection (facultative)",
+    "min": 0,
+    "max": 1,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.4vmqBZqfEJMVOaCS",
+      "name": "Tenue de protection"
+     }
+    ]
+   }
+  ]
+ },
+ "the-creature": {
+  "fixed": [],
+  "groups": [
+   {
+    "title": "Armes lourdes",
+    "min": 1,
+    "max": 1,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.MK88KmKVYNyvgtsE",
+      "name": "Masse"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.Kd5JmrReGvCD01x2",
+      "name": "Grosse épée"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.jvkj2LlQKZYyoUf1",
+      "name": "Magnum"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.Kp06hjC1MFCEBRQK",
+      "name": "Fusil à pompe"
+     }
+    ]
+   },
+   {
+    "title": "Armes supplémentaires",
+    "min": 1,
+    "max": 1,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.NkNco0miwmMFXAmQ",
+      "name": "Revolver, calibre .38"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.E4ShQaThfxJJeRke",
+      "name": "9 mm"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.iIgAuv4f2r0QbOIq",
+      "name": "Épée (Créature)"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.ClMozjbv1OnkFomm",
+      "name": "Gros couteau"
+     }
+    ]
+   }
+  ]
+ },
+ "the-mundane": {
+  "fixed": [],
+  "groups": [
+   {
+    "title": "Armes banales",
+    "min": 2,
+    "max": 2,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.Cv7wVthdWp2WwpL8",
+      "name": "Club de golf, batte de base-ball, batte de cricket ou crosse de hockey"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.Fz2cW44AAAFFMrYV",
+      "name": "Canif ou outil multifonction"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.nXscDFydvEQHFftu",
+      "name": "Petit pistolet"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.CM0oIQtHsUy9tTNa",
+      "name": "Fusil de chasse"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.spXkGAMp6AZ5vyK4",
+      "name": "Masse ou hache de pompier"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.M5D5jjd9BcS98qLI",
+      "name": "Nunchakus"
+     }
+    ]
+   },
+   {
+    "title": "Moyens de transport",
+    "min": 1,
+    "max": 1,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta.the-mundane.Item.tEuDgyjHEGb79OVm",
+      "name": "Vélo"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.the-mundane.Item.VXxCmizw3lhBWA5T",
+      "name": "Voiture de collection en très mauvais état"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.the-mundane.Item.p7Damzq8OTQUweqv",
+      "name": "Voiture assez récente en état correct"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.the-mundane.Item.tAWLWgabHXmSgfHB",
+      "name": "Moto"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.the-mundane.Item.ButprZwQkrgPbrOF",
+      "name": "Skateboard"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.the-mundane.Item.vms7In3NNAZJEfbZ",
+      "name": "Camionnette"
+     }
+    ]
+   }
+  ]
+ },
+ "the-big-game-hunter": {
+  "fixed": [],
+  "groups": [
+   {
+    "title": "Armes de gros gibier",
+    "min": 1,
+    "max": 1,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.DsE0Y59QsB1wKQVj",
+      "name": "Arc/arbalète high-tech"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.dRlfzKhwWx2RvsX6",
+      "name": "Fusil à gros calibre"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.u0cBEAwqBCEINYoZ",
+      "name": "Lance-filet"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.kgJg5DXrtAMx8BV1",
+      "name": "Fusil à éléphants"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.ZC2d1K5CNVU7p7oJ",
+      "name": "Fusil à fléchettes tranquillisantes"
+     }
+    ]
+   },
+   {
+    "title": "Armes de secours",
+    "min": 2,
+    "max": 2,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.NkNco0miwmMFXAmQ",
+      "name": "Revolver, calibre .38"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.u7rsQJOzmAKsCy4F",
+      "name": "Fusil à pompe (Chasseur de Gros Gibier)"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.cvwRhMjCUcwT99aB",
+      "name": "Fusil de chasse"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.E4ShQaThfxJJeRke",
+      "name": "9 mm"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.LBXu9s7XpY95uq5t",
+      "name": "Couteau de survie"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.uTOJb99hOOT2pO3M",
+      "name": "Lance (Chasseur de Gros Gibier)"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.MBJKUSBJo2au2xvQ",
+      "name": "Machette"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.afxcd0FlfxcVo3WT",
+      "name": "Bolas"
+     }
+    ]
+   },
+   {
+    "title": "Véhicule (facultatif)",
+    "min": 0,
+    "max": 1,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.1T7JGA5iW3AbPtAT",
+      "name": "Jeep (ou véhicule tout-terrain de haute qualité)"
+     }
+    ]
+   }
+  ]
+ },
+ "the-searcher": {
+  "fixed": [
+   {
+    "uuid": "Compendium.motw-for-pbta.equipment.Item.mOurf3vVqKzzuTDC",
+    "name": "Ordinateur portable"
+   },
+   {
+    "uuid": "Compendium.motw-for-pbta.equipment.Item.2OfYEpleBN8b4iTL",
+    "name": "Appareil photo"
+   },
+   {
+    "uuid": "Compendium.motw-for-pbta.equipment.Item.gKzeLKAoPPTipv5L",
+    "name": "Jumelles"
+   }
+  ],
+  "groups": [
+   {
+    "title": "Véhicule",
+    "min": 1,
+    "max": 1,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.MvkmjvL5iSd34Wkp",
+      "name": "Voiture assez récente en état correct"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.zMoyjbj2mTT1RixJ",
+      "name": "Moto"
+     }
+    ]
+   },
+   {
+    "title": "Outils d’enquête",
+    "min": 2,
+    "max": 2,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.tT0qfSCoBQRTjETq",
+      "name": "Un sac de caméras et de microphones"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.HEXxI1QAw7vObQB9",
+      "name": "Outils de police scientifique"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.mdRShSqr3HXy8Ey0",
+      "name": "Outils de chasse aux fantômes"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.q9pzHvTG2zWJTXsL",
+      "name": "Instruments de mesure scientifiques"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.fqhPIh09USKV6jdU",
+      "name": "Équipement de chasse aux cryptides"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.RkhPbYeZ3L1TAikS",
+      "name": "Documents historiques et témoignages d’événements étranges"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.CCcjDS5vpBEsvwtI",
+      "name": "Cartes, plans et rapports de bâtiments pour des lieux importants"
+     }
+    ]
+   },
+   {
+    "title": "Armes de défense personnelle",
+    "min": 1,
+    "max": 1,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.4hW8QPCMAVSBjvSn",
+      "name": "Canne"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.nXscDFydvEQHFftu",
+      "name": "Petit pistolet"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.U6tnWmyf0DkpGQwg",
+      "name": "Petit couteau"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.fX6Kb9j2L6S77rAL",
+      "name": "Formation aux arts martiaux"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.i18HQqTlOSPOIQd8",
+      "name": "Spray incapacitant"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.EGPcSRkXmQMGDo52",
+      "name": "Lampe torche lourde"
+     }
+    ]
+   }
+  ]
+ },
+ "the-divine": {
+  "fixed": [
+   {
+    "uuid": "Compendium.motw-for-pbta.the-divine.Item.wP3d2tf1fqEBTIik",
+    "name": "Armure divine"
+   }
+  ],
+  "groups": [
+   {
+    "title": "Armes divines",
+    "min": 1,
+    "max": 1,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta.the-divine.Item.CxNMt0Ku01jA2PSR",
+      "name": "Sac aux cinq démons"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.the-divine.Item.D4NAqZaClDUN1QOk",
+      "name": "Épée flamboyante"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.the-divine.Item.g3a4uSyvL434uaNw",
+      "name": "Fouet-rasoir"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.the-divine.Item.xyFSfcaKLYMrDnOC",
+      "name": "Trident d’argent"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.the-divine.Item.xWwDtj8bsyFBweJO",
+      "name": "Marteau de tonnerre"
+     }
+    ]
+   }
+  ]
+ },
+ "the-hardboiled": {
+  "fixed": [],
+  "groups": [
+   {
+    "title": "Armes de Dur à Cuire",
+    "min": 1,
+    "max": 1,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.JtkrpAV0ovRp3sbg",
+      "name": "Pied-de-biche (Dur à Cuire)"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.SkxylVIyqAqZ6zVv",
+      "name": "Tronçonneuse (Dur à Cuire)"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.CL8LDR0SErXAy4nQ",
+      "name": "Fusil de chasse automatique"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.CuvA8DatCfnjvSnY",
+      "name": "Sacré gros couteau"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.4qnzyDk6g7JdtqtG",
+      "name": "Gros calibre"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.Ggfm6aVuhFf9HQdf",
+      "name": "Mitraillette"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.U9VzZaXF6u3VMT1a",
+      "name": "Fusil d’assaut usé"
+     }
+    ]
+   },
+   {
+    "title": "Armes normales",
+    "min": 2,
+    "max": 2,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.NkNco0miwmMFXAmQ",
+      "name": "Revolver, calibre .38"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.uLJGCNEpHJwne2c2",
+      "name": "Fusil à pompe (Dur à Cuire)"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.cvwRhMjCUcwT99aB",
+      "name": "Fusil de chasse"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.E4ShQaThfxJJeRke",
+      "name": "9 mm"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.ClMozjbv1OnkFomm",
+      "name": "Gros couteau"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.jvkj2LlQKZYyoUf1",
+      "name": "Magnum"
+     }
+    ]
+   }
+  ]
+ },
+ "the-flake": {
+  "fixed": [],
+  "groups": [
+   {
+    "title": "Armes normales",
+    "min": 1,
+    "max": 1,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.NkNco0miwmMFXAmQ",
+      "name": "Revolver .38"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.E4ShQaThfxJJeRke",
+      "name": "9 mm"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.cvwRhMjCUcwT99aB",
+      "name": "Fusil de chasse"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.jvkj2LlQKZYyoUf1",
+      "name": "Magnum"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.Kp06hjC1MFCEBRQK",
+      "name": "Fusil à pompe"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.LCjtHCkUiMKbLrmh",
+      "name": "Grand couteau"
+     }
+    ]
+   },
+   {
+    "title": "Armes cachées",
+    "min": 2,
+    "max": 2,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.VIhbFlo2tR9rYMuM",
+      "name": "Couteaux de lancer"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.itK2w8sxvsBCWcMq",
+      "name": "Pistolet de poche"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.c8uh8lOvZDTGh3Lo",
+      "name": "Garrot"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.tos319cB7ASrYt8T",
+      "name": "Lampe torche de veilleur"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.LNsJbg2FLW1Ix7SG",
+      "name": "Gants lestés / coup-de-poing américain"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.U4CD06mqTiuyiXnd",
+      "name": "Couteau papillon / couteau pliant"
+     }
+    ]
+   }
+  ]
+ },
+ "the-snoop": {
+  "fixed": [
+   {
+    "uuid": "Compendium.motw-for-pbta.equipment.Item.mOurf3vVqKzzuTDC",
+    "name": "Ordinateur portable"
+   }
+  ],
+  "groups": [
+   {
+    "title": "Appareils d’enregistrement",
+    "min": 3,
+    "max": 3,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.FcMdvG2MNuEa6FBc",
+      "name": "Caméra vidéo"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.FQzu6nxlrQUGZ1bf",
+      "name": "Minuscule appareil photo numérique"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.4pAVuBSLiUdAZoxJ",
+      "name": "Caméra argentique"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.F9kPdXbehBGvAGKP",
+      "name": "Enregistreur numérique"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.ku3E6jtWBWyKd8ea",
+      "name": "Magnétophone"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.RGhErOUN2cdadAo6",
+      "name": "Caméra infrarouge"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.7OboGnnbPWE60rjJ",
+      "name": "Matériel son professionnel"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.xC070KX28ws8OTi0",
+      "name": "Drone-caméra"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.TZLvTJ2Df9EmXOtf",
+      "name": "Caméra à lumière d’étoiles"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.W8uBfs7A8P6EgFUH",
+      "name": "Équipement Steadicam"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.cdW5TlrxCUS0NDEo",
+      "name": "Microphone laser"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.iSe8iS6FK2x1I7p8",
+      "name": "Appareil photo reflex"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.F81BWJLc8ykfp5yH",
+      "name": "Smartphone haut de gamme"
+     }
+    ]
+   },
+   {
+    "title": "Détecteurs",
+    "min": 2,
+    "max": 2,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.zKL2q8zl9isLHoZL",
+      "name": "Détecteur de champ électromagnétique"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.vRJ9XcgA29MvtkrC",
+      "name": "Détecteur de variations de température"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.SrFW8Ei8mGRnX2MZ",
+      "name": "Planche Ouija"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.FqTGvKywcGFrEnw7",
+      "name": "Hygromètre"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.OEeJ6CI9aLtsFYgR",
+      "name": "Baguettes de sourcier"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.r6ttLQD8ATLW6s6Z",
+      "name": "Kit de tests chimiques"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.mPHIpEXpdBMbvID1",
+      "name": "Détecteur de métaux"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.WEy9PEeJXW6n05yj",
+      "name": "Boussole"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.nkHlV6eGh2rs3olb",
+      "name": "Récepteur GPS"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.kxT2JfK35Dk8MOzt",
+      "name": "Télémètre laser"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.PyUMvYn4q9bv45cO",
+      "name": "Pendule"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.rcMNHioIwWo8Avyp",
+      "name": "Jeu de tarot"
+     }
+    ]
+   },
+   {
+    "title": "Armes discrètes",
+    "min": 1,
+    "max": 1,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.GsjW79CRCFYwGJf9",
+      "name": "Outil multifonction / canif"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.6wJr4vPajWaomnvs",
+      "name": "Pistolet paralysant"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.7kFAzWYEYHG6o2Tk",
+      "name": "Batte de base-ball / de cricket"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.WHY51Cck8m3KbYvh",
+      "name": "Pistolet"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.hHO63rKMymQSkzc2",
+      "name": "Couteau"
+     }
+    ]
+   }
+  ]
+ },
+ "the-snooper": {
+  "fixed": [
+   {
+    "uuid": "Compendium.motw-for-pbta.equipment.Item.mOurf3vVqKzzuTDC",
+    "name": "Ordinateur portable"
+   }
+  ],
+  "groups": [
+   {
+    "title": "Appareils d’enregistrement",
+    "min": 3,
+    "max": 3,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.KUuY50kAAwwCGwdS",
+      "name": "Caméra numérique"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.4mX0jLpYgV9cqPOy",
+      "name": "Petite caméra numérique"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.lv8UOmdBR9AmN8w5",
+      "name": "Pellicule (8 ou 16 mm)"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.Esb5yaWnKmYw47xo",
+      "name": "Dictaphone numérique"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.ku3E6jtWBWyKd8ea",
+      "name": "Magnétophone"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.RGhErOUN2cdadAo6",
+      "name": "Caméra infrarouge"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.TaD5eU9OTfcSgoY9",
+      "name": "Matériel de sonorisation et micro sur perche"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.CVUHrePat62VrP1M",
+      "name": "Drone caméra radiocommandé"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.9uS1i0U8Awkwdcih",
+      "name": "Caméra nocturne"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.FChwnwkU1CMO3vZu",
+      "name": "Steadicam"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.cdW5TlrxCUS0NDEo",
+      "name": "Microphone laser"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.nZ3P5do4iMYv9h5N",
+      "name": "Appareil Réflex"
+     }
+    ]
+   },
+   {
+    "title": "Détecteurs",
+    "min": 2,
+    "max": 2,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.zKL2q8zl9isLHoZL",
+      "name": "Détecteur de champ électromagnétique"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.0t8wi7G4NEyQKEcR",
+      "name": "Détecteur de changement de température"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.SrFW8Ei8mGRnX2MZ",
+      "name": "Planche Ouija"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.KIQpwr9OidWV9O18",
+      "name": "Humidimètre"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.HUzEBpQYtwFvdgrI",
+      "name": "Baguette de sourcier"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.DEAuERPW7Rq8wkg4",
+      "name": "Matériel d’analyses chimiques"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.mPHIpEXpdBMbvID1",
+      "name": "Détecteur de métaux"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.WEy9PEeJXW6n05yj",
+      "name": "Boussole"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.nkHlV6eGh2rs3olb",
+      "name": "Récepteur GPS"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.kxT2JfK35Dk8MOzt",
+      "name": "Télémètre laser"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.PyUMvYn4q9bv45cO",
+      "name": "Pendule"
+     }
+    ]
+   },
+   {
+    "title": "Armes camouflées",
+    "min": 1,
+    "max": 1,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.eN25jjniZxYprMNq",
+      "name": "Revolver, calibre .32"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.E4ShQaThfxJJeRke",
+      "name": "9 mm"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.PthmFWrKxwKraXmV",
+      "name": "Couteau (Fureteur)"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.Ayb7o9HgGTdL0iwS",
+      "name": "Couteau suisse"
+     }
+    ]
+   }
+  ]
+ },
+ "the-nosy-kid": {
+  "fixed": [],
+  "groups": [
+   {
+    "title": "Gadgets pour résoudre les mystères",
+    "min": 3,
+    "max": 3,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.R6aOJCeAyq5Nf0eD",
+      "name": "Loupe"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.8LnzYGQtICvIAzdi",
+      "name": "Microscope"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.8BhT9WPLdOTUejt7",
+      "name": "Fourgonnette"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.En1fLlCozx7bmrq2",
+      "name": "Carte de bibliothèque"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.0Ss1YHa9RKr0awzj",
+      "name": "Kit du chimiste amateur"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.0xP8UjNYqAepxmFg",
+      "name": "Deux talkies-walkies"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.EIP0G1pgI3J8ak3C",
+      "name": "Matériel pour relever les empreintes digitales"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.2OfYEpleBN8b4iTL",
+      "name": "Appareil photo"
+     }
+    ]
+   }
+  ]
+ },
+ "the-wronged": {
+  "fixed": [
+   {
+    "uuid": "Compendium.motw-for-pbta.equipment.Item.4vmqBZqfEJMVOaCS",
+    "name": "Tenue de protection"
+   }
+  ],
+  "groups": [
+   {
+    "title": "Armes fétiches",
+    "min": 1,
+    "max": 1,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.WuaAnISGJg0wm66J",
+      "name": "Fusil à canon scié"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.1243QYrHxVVyBVVv",
+      "name": "Pistolet surpuissant"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.R31ZImWd8zR1U7tp",
+      "name": "Couteau de combat"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.oQSU5h0wgIEptIS0",
+      "name": "Épée ou hache gigantesque"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.77Asexj3uHGT12eo",
+      "name": "Dague enchantée"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.8NVmgXD6lZtTDI2d",
+      "name": "Tronçonneuse"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.the-wronged.Item.FMPksyExLR47ly6v",
+      "name": "Arme de spécialiste"
+     }
+    ]
+   },
+   {
+    "title": "Armes pratiques",
+    "min": 2,
+    "max": 2,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.NkNco0miwmMFXAmQ",
+      "name": "Revolver .38"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.E4ShQaThfxJJeRke",
+      "name": "9 mm"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.cvwRhMjCUcwT99aB",
+      "name": "Fusil de chasse"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.Kp06hjC1MFCEBRQK",
+      "name": "Fusil à pompe"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.LCjtHCkUiMKbLrmh",
+      "name": "Grand couteau"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.yPEx4s2J2K5fh9Zz",
+      "name": "Coup-de-poing américain"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.G5S3DHeFdoYmgc0I",
+      "name": "Fusil d’assaut"
+     }
+    ]
+   },
+   {
+    "title": "Véhicule (facultatif)",
+    "min": 0,
+    "max": 1,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.E02dPJzkfaPBMTNy",
+      "name": "Voiture de collection"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.rDSFPTt6i8ZmZnIr",
+      "name": "Moto de collection"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.8Hd6wRBfyZ3mW6SW",
+      "name": "Pick-up ordinaire"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.2GE70XkBHEas4NVv",
+      "name": "Camionnette ordinaire"
+     }
+    ]
+   }
+  ]
+ },
+ "the-spell-slinger": {
+  "fixed": [],
+  "groups": [
+   {
+    "title": "Équipement",
+    "min": 1,
+    "max": 1,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.VHAoMggk58D8boGu",
+      "name": "Vieux revolver"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.788N6CABMekSLgNh",
+      "name": "Couteau rituel"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.QarnE4CnE5dKJpRS",
+      "name": "Épée de famille"
+     }
+    ]
+   }
+  ]
+ },
+ "the-luchador": {
+  "fixed": [],
+  "groups": [
+   {
+    "title": "Armes normales",
+    "min": 2,
+    "max": 2,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.NkNco0miwmMFXAmQ",
+      "name": "Revolver, calibre .38"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.E4ShQaThfxJJeRke",
+      "name": "9 mm"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.Kp06hjC1MFCEBRQK",
+      "name": "Fusil à pompe"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.ZqS6No9zg4TXF8bX",
+      "name": "Grosse chaîne"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.6PPF87t8vDxrRKKZ",
+      "name": "Masse (Luchador)"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.ClMozjbv1OnkFomm",
+      "name": "Gros couteau"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.k4oAOQMKF1jA0ILW",
+      "name": "Poing américain"
+     }
+    ]
+   },
+   {
+    "title": "Véhicules classieux",
+    "min": 1,
+    "max": 1,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.a9eg5CxKp1DNdT9n",
+      "name": "Voiture de sport étrangère"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.VapgWLNZgklYwIaT",
+      "name": "Gros véhicule tout-terrain"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.fnbSzCwc6R09Zcjl",
+      "name": "Limousine et chauffeur"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.9OKUqiPhKA9AUemy",
+      "name": "Moto customisée"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.Rr6dMlD6hT6EOuHN",
+      "name": "Fourgonnette tunée"
+     }
+    ]
+   }
+  ]
+ },
+ "the-monstrous": {
+  "fixed": [],
+  "groups": [
+   {
+    "title": "Arme pratique (facultative)",
+    "min": 0,
+    "max": 1,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.NkNco0miwmMFXAmQ",
+      "name": "Revolver .38"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.E4ShQaThfxJJeRke",
+      "name": "9 mm"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.jvkj2LlQKZYyoUf1",
+      "name": "Magnum"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.Kp06hjC1MFCEBRQK",
+      "name": "Fusil à pompe"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.LCjtHCkUiMKbLrmh",
+      "name": "Grand couteau"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.xTWkZqvQDM0xpeaR",
+      "name": "Coup-de-poing américain"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.BO9HOZ7G5FzkyKfg",
+      "name": "Épée"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.cNQ3yzXRoDdSBww3",
+      "name": "Épée gigantesque"
+     }
+    ]
+   }
+  ]
+ },
+ "the-pararomantic": {
+  "fixed": [],
+  "groups": [
+   {
+    "title": "Objets ordinaires",
+    "min": 2,
+    "max": 2,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.Cv7wVthdWp2WwpL8",
+      "name": "Club de golf, batte de base-ball, batte de cricket ou crosse de hockey"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.Fz2cW44AAAFFMrYV",
+      "name": "Canif ou outil multifonction"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.nXscDFydvEQHFftu",
+      "name": "Petit pistolet"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.eoMFxmTm8olEsNBt",
+      "name": "Vélo"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.KuOccZxxoP4UDfZt",
+      "name": "Voiture assez récente en bon état"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.zMoyjbj2mTT1RixJ",
+      "name": "Moto"
+     }
+    ]
+   },
+   {
+    "title": "Don de votre Guide",
+    "min": 1,
+    "max": 1,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta.the-pararomantic-tom.Item.5EHi6WkRSUUtK3sw",
+      "name": "Souvenir"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.the-pararomantic-tom.Item.I8ADZ7Y7Lraiexwn",
+      "name": "Une partie de son corps"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.the-pararomantic-tom.Item.LMRfXmRjkInFbgJ6",
+      "name": "Bijou"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.the-pararomantic-tom.Item.3HJ1w4gC63dtWp0D",
+      "name": "Arme étrange ou ancienne"
+     }
+    ]
+   }
+  ]
+ },
+ "the-gumshoe": {
+  "fixed": [
+   {
+    "uuid": "Compendium.motw-for-pbta.equipment.Item.mOurf3vVqKzzuTDC",
+    "name": "Ordinateur portable"
+   },
+   {
+    "uuid": "Compendium.motw-for-pbta.equipment.Item.yMqCa9vXtGDAX6jQ",
+    "name": "Flasque d’alcool"
+   }
+  ],
+  "groups": [
+   {
+    "title": "Appareils d’enregistrement",
+    "min": 2,
+    "max": 2,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.XE6Xms2lE5tji7SG",
+      "name": "Caméra de vision nocturne"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.nJb2qIaOJDY6y57o",
+      "name": "Minuscule caméra vidéo numérique"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.cdCji3mVXmjx1tu5",
+      "name": "Caméra argentique (8 mm ou 16 mm)"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.7hKND3DSoPdmNUuZ",
+      "name": "Enregistreur sonore numérique"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.YlcwlVux74uhIMLW",
+      "name": "Magnétophone à cassettes"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.J5ubyfKJT8dWzEoD",
+      "name": "Drone-caméra télécommandé"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.cdW5TlrxCUS0NDEo",
+      "name": "Microphone laser"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.iSe8iS6FK2x1I7p8",
+      "name": "Appareil photo reflex"
+     }
+    ]
+   },
+   {
+    "title": "Armes de détective privé",
+    "min": 1,
+    "max": 1,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.3f5mxRtgisIp3S9x",
+      "name": "Coup-de-poing américain"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.NkNco0miwmMFXAmQ",
+      "name": "Revolver .38"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.E4ShQaThfxJJeRke",
+      "name": "9 mm"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.jvkj2LlQKZYyoUf1",
+      "name": "Magnum"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.Kp06hjC1MFCEBRQK",
+      "name": "Fusil à pompe"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.mpSzwC2VnROp0VpE",
+      "name": "Cran d’arrêt"
+     }
+    ]
+   }
+  ]
+ },
+ "the-professional": {
+  "fixed": [],
+  "groups": [
+   {
+    "title": "Armes sérieuses",
+    "min": 1,
+    "max": 1,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.s29qpVbjf1XDVFpa",
+      "name": "Fusil d’assaut"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.ZvHAoWTaNQvRNbkB",
+      "name": "Lance-grenades"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.4IAWDQOa0rP5MXRv",
+      "name": "Fusil de précision"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.jXNzAXIRJUWZVBRy",
+      "name": "Grenades"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.79evA2936pKvw9uC",
+      "name": "Pistolet-mitrailleur"
+     }
+    ]
+   },
+   {
+    "title": "Armes normales",
+    "min": 2,
+    "max": 2,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.NkNco0miwmMFXAmQ",
+      "name": "Revolver .38"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.E4ShQaThfxJJeRke",
+      "name": "9 mm"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.cvwRhMjCUcwT99aB",
+      "name": "Fusil de chasse"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.Kp06hjC1MFCEBRQK",
+      "name": "Fusil à pompe"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.LCjtHCkUiMKbLrmh",
+      "name": "Grand couteau"
+     }
+    ]
+   },
+   {
+    "title": "Protection",
+    "min": 1,
+    "max": 1,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.KCOOav0lYzd7ZuQA",
+      "name": "Gilet pare-balles"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.2r6gJCwh5j7vVW0t",
+      "name": "Armure de combat"
+     }
+    ]
+   }
+  ]
+ },
+ "the-mad-scientist": {
+  "fixed": [],
+  "groups": [
+   {
+    "title": "Armes de Science étrange",
+    "min": 1,
+    "max": 1,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.CZC1nnwdH4H3TxQ0",
+      "name": "Tronçonneuse atomique"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.8ua4VRUSOhw2KVAZ",
+      "name": "Griffes électriques"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.8sBGDtENqU1sVvMv",
+      "name": "Électropropulseur"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.4ruEx4wS0vekYVsg",
+      "name": "Fusil sonique"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.GgWTZW9BFMMdBoFr",
+      "name": "Pistolet à slime"
+     }
+    ]
+   },
+   {
+    "title": "Armes supplémentaires",
+    "min": 1,
+    "max": 1,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.NkNco0miwmMFXAmQ",
+      "name": "Revolver, calibre .38"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.E4ShQaThfxJJeRke",
+      "name": "9 mm"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.fCVGo0zorHgAEOQA",
+      "name": "Scie à os"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.V70JMmayAraRiWyY",
+      "name": "Scalpel"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.hylllupF1ZtN5o3h",
+      "name": "Seringue"
+     }
+    ]
+   }
+  ]
+ },
+ "the-unleashed-scientist": {
+  "fixed": [],
+  "groups": [
+   {
+    "title": "Armes scientifiques",
+    "min": 2,
+    "max": 2,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.ARjicvL1zSG2KKxk",
+      "name": "Fulguro-fusil"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.91HGa0rSfPPoSRs0",
+      "name": "Accélérateur à particules de poche"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.OT765uJOmXM4PWSq",
+      "name": "Canon laser"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.3m9fe4cqprjHifeI",
+      "name": "Lance-filet (Scientifique Déchaîné)"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.m3dh2rHmVYrb7SKz",
+      "name": "Scalpel (Scientifique Déchaîné)"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.THgVeUEXtBq11V8B",
+      "name": "Couteau cinétique"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.FzjEWAZVubDHDLJw",
+      "name": "Fusil tranquillisant"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.DWXTtDHgzuPHROhD",
+      "name": "Pistolet à rayons étourdissants"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.7SDxY21WNEXdHAyz",
+      "name": "Drone autonome"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.SKDjNMC40GfJT7Qa",
+      "name": "Pistolet atomique"
+     }
+    ]
+   },
+   {
+    "title": "Armure scientifique (facultatif)",
+    "min": 0,
+    "max": 1,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.7RlWmY5UiiNPqFjE",
+      "name": "Armure scientifique"
+     }
+    ]
+   }
+  ]
+ },
+ "the-spooktacular": {
+  "fixed": [
+   {
+    "uuid": "Compendium.motw-for-pbta.the-spooktacular-he.Item.LaZicqqjrlCu5T5g",
+    "name": "Bazar"
+   }
+  ],
+  "groups": [
+   {
+    "title": "Outils de campement",
+    "min": 1,
+    "max": 1,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.Fz2cW44AAAFFMrYV",
+      "name": "Canif ou outil multifonction"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.aslYIMPjJiUvXWuL",
+      "name": "Maillet"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.xo0w03LjU2KPZg5B",
+      "name": "Pied-de-biche"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.TSyGdjOQOiIEWNzm",
+      "name": "Batte de base-ball ou équivalent"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.GJt3z3l9fsqRd6NG",
+      "name": "Hachette"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.vz4KixYmHkm3v5l2",
+      "name": "Chaussette pleine de pièces"
+     }
+    ]
+   },
+   {
+    "title": "Véhicules",
+    "min": 1,
+    "max": 1,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.kZXFN2Bg7hoSMqRl",
+      "name": "Pick-up"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.4DQ3aGL8Fdvixs0Q",
+      "name": "Camionnette"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.wmlwQlb7yOQ6xOuY",
+      "name": "Camion"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.equipment.Item.4BYa3XhOGWv0zXnS",
+      "name": "Moto et side-car"
+     }
+    ]
+   },
+   {
+    "title": "Objet mystique",
+    "min": 1,
+    "max": 1,
+    "items": [
+     {
+      "uuid": "Compendium.motw-for-pbta.the-spooktacular-he.Item.MA454449Ls1liNsQ",
+      "name": "Lunettes fantômes"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.the-spooktacular-he.Item.opALcWUj3xsMlZcn",
+      "name": "Très gros chien en peluche (animé)"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.the-spooktacular-he.Item.7XwXiUoP7lOPBiWW",
+      "name": "Billet de 100 revenant"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.the-spooktacular-he.Item.6OUFWW6tx4WzHCGk",
+      "name": "Arnaquulette"
+     },
+     {
+      "uuid": "Compendium.motw-for-pbta.the-spooktacular-he.Item.P18BGobNp3rIL4WX",
+      "name": "Tente de magicien"
+     }
+    ]
+   }
+  ]
+ }
+}

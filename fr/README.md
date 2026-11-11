@@ -119,6 +119,14 @@ Une ligne de Caractéristiques choisie est verrouillée ; le MJ peut la déverro
 - Montée de niveau : sélection des améliorations puis bouton « Valider » ; niveau non modifiable à la main (sauf MJ).
 - Bandeau « tags dépréciés » masqué sur les étiquettes.
 
+## Version 0.13.0 — Assistant de création
+
+Quand on ajoute un livret à une fiche vierge, une fois la fenêtre des manœuvres validée :
+- la fiche passe sur l'onglet **Description** pour choisir l'apparence et une ligne de caractéristiques ;
+- puis sur l'onglet **Équipement**, où une fenêtre propose le matériel du livret : les objets fournis sont ajoutés d'office, et il faut cocher les choix demandés (« deux armes parmi… ») avec le nombre exact imposé ;
+- un bandeau « Création du personnage » reste en haut de la fiche tant que la création n'est pas terminée : fermer une fenêtre ne perd rien, on reprend où on s'était arrêté ;
+- le MJ peut terminer la création sans tout faire, ou rouvrir la fenêtre de matériel depuis l'onglet Équipement (utile pour les personnages déjà créés).
+
 ## Problèmes connus et pistes d'amélioration
 
 - **Montée de niveau :** cette partie est un travail en cours (work in progress) et sera améliorée dans une prochaine version.

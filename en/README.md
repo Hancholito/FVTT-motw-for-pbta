@@ -13,6 +13,7 @@ This module has its own id (`motw-for-pbta-en`). **Do not enable it together wit
 - **Equipment compendium** (about 210 items): weapons, armour, transport, gear, base attacks and options, with their tags. The gear lists in the playbooks link to these items.
 - **Icons** for about 680 moves, items, improvement tags and playbooks (see credits below).
 - **Description tab helpers** on the character sheet: the playbook's *Look* choices, *Ratings* lines and *History* links are clickable (a ratings line sets all five ratings at once and is then locked; the GM can unlock it; each History link has a field for the character's name).
+- **Character creation assistant**: after you pick a playbook and its moves, the sheet moves on to the Description tab (look and ratings), then to the Equipment tab where a window offers the playbook's gear (fixed items are added automatically, choices have exact quotas). A banner lets you resume if you close a window; the GM can end the creation early or reopen the gear window.
 - **Level-up helper**: the arrow next to the level (active when the five experience boxes are marked) opens the playbook's improvement list and applies ratings, moves and Luck automatically. The level field can only be edited by the GM.
 - The “deprecated tags” notice of PbtA is hidden on tag items.
 

@@ -315,3 +315,27 @@ input.motw-locked { background: transparent; cursor: not-allowed; }
 .pbta.sheet.item.tag .sheet-notifications { display: none !important; }
 /* Niveau non modifiable à la main */
 input.motw-level-locked { pointer-events: none; background: transparent; }
+
+/* Assistant de création (bandeau et fenêtre du matériel) */
+.motw-wiz { margin: 0 0 8px; padding: 8px 12px; border: 1px solid #8e2231; border-left-width: 5px; border-radius: 4px; background: #f7ecd9; color: #2b2622; }
+.motw-wiz__head { font-size: 14px; }
+.motw-wiz__steps { display: flex; flex-wrap: wrap; gap: 4px 14px; margin: 4px 0; font-size: 12px; opacity: .85; }
+.motw-wiz__steps .ok { color: #2f6b2f; font-weight: 600; }
+.motw-wiz__steps .now { color: #8e2231; font-weight: 700; }
+.motw-wiz p { margin: 4px 0; font-size: 12.5px; }
+.motw-wiz__btns { display: flex; flex-wrap: wrap; gap: 6px; }
+.motw-wiz__btns button, .motw-wiz-gm button { width: auto; line-height: 1.2; padding: 4px 12px; border: 1px solid #6b6258; border-radius: 12px; background: #f4efe4; color: #2b2622; font-size: 12px; cursor: pointer; box-shadow: none; }
+.motw-wiz__btns button:hover, .motw-wiz-gm button:hover { background: #e6dcc6; }
+.motw-wiz__gm { opacity: .7; }
+.motw-wiz-gm { margin: 0 0 6px; text-align: right; }
+.motw-gear { max-height: 70vh; overflow-y: auto; padding-right: 4px; }
+.motw-gear h4 { margin: 10px 0 4px; border-bottom: 1px solid #b9ad97; }
+.motw-gear h4 small { font-weight: 400; opacity: .75; }
+.motw-gear__count { float: right; font-size: 12px; opacity: .8; }
+.motw-gear__group.is-ok h4 .motw-gear__count { color: #2f6b2f; font-weight: 700; }
+.motw-gear__item { display: flex; align-items: center; gap: 6px; margin: 2px 0; padding: 2px 4px; border-radius: 3px; cursor: pointer; }
+.motw-gear__item:hover { background: rgba(0,0,0,.06); }
+.motw-gear__item img { width: 24px; height: 24px; flex: 0 0 24px; border: 0; object-fit: contain; }
+.motw-gear__item small { margin-left: auto; opacity: .7; text-align: right; }
+.motw-gear__item input { flex: 0 0 auto; margin: 0; }
+.motw-gear__total { margin: 8px 0 0; }
