@@ -14,6 +14,7 @@ Le format suit [Keep a Changelog](https://keepachangelog.com/fr/).
 - Compendium **Étiquettes** : 31 étiquettes d'amélioration propres à ces livrets.
 - 10 nouvelles icônes de livret et un fichier `icons/CREDITS.json` qui recense l'auteur de chaque icône.
 ### Corrigé
+- Montée de niveau : la fenêtre des améliorations ne réagissait plus aux clics, donc rien ne s'appliquait. Les améliorations se sélectionnent de nouveau, « Gagner +1 en X » modifie la caractéristique, et « Prendre une autre manœuvre » / « d'un autre livret » ouvrent bien leurs fenêtres de choix.
 - Montée de niveau : « Gagner +1 en Futé » est désormais reconnue (le é n'était pas pris en compte).
 ### À savoir
 - Le Fureteur est une autre traduction du livret Le Fouineur de l'édition Hardcover : les deux sont conservés.

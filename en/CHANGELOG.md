@@ -12,6 +12,8 @@ All changes made since the base version (**0.4.5**, motw-for-pbta by Rangerthema
 - New equipment items and tags linked from the new playbooks.
 ### Note
 - These playbooks are an unofficial translation from the French supplementary playbooks; names and wording may differ from any official English text.
+### Fixed
+- Level-up: the improvements window no longer reacted to clicks, so nothing was applied. Improvements can be selected again, "Get +1 X" raises the rating, and "Take another move" / "from another playbook" open their choice windows.
 ### Changed
 - Level-up: "Get +1 X" improvements now parse correctly.
 

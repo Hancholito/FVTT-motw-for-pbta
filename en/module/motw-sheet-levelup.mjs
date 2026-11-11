@@ -108,7 +108,6 @@ export async function openImprovements(actor) {
   const content = `<div class="motw-lvl"><p>Levels to spend: <strong>${pending}</strong> · Improvements taken: <strong>${nBasic}</strong> · Selected: <strong class="motw-sel">0</strong>/${pending}</p>
     <h4>Improvements</h4><div class="motw-imp-list">${row(basic, 'b')}</div>
     <h4>Advanced improvements ${advOpen ? '' : '<small>(after 5 improvements)</small>'}</h4><div class="motw-imp-list">${row(adv, 'a')}</div></div>`;
-  let chosen = [];
   const refresh = (el) => {
     el.querySelector('.motw-sel').textContent = sel.size;
     el.querySelectorAll('.motw-imp').forEach((b) => {
@@ -119,10 +118,10 @@ export async function openImprovements(actor) {
     const ok = el.querySelector('[data-action="ok"]');
     if (ok) ok.disabled = sel.size === 0;
   };
-  const dlg = new DialogV2({
+  const res = await DialogV2.wait({
     window: { title: 'Improvements' }, position: { width: 560 }, content,
     buttons: [
-      { action: 'ok', label: 'Confirm', default: true, callback: () => { chosen = [...sel]; } },
+      { action: 'ok', label: 'Confirm', default: true, callback: () => [...sel] },
       { action: 'close', label: 'Close' }
     ],
     render: (ev, d) => {
@@ -138,25 +137,23 @@ export async function openImprovements(actor) {
     },
     rejectClose: false
   });
-  dlg.addEventListener('close', async () => {
-    if (!chosen.length) return;
-    let left = pending;
-    const done = [...taken];
-    for (const key of chosen) {
-      const [p, i] = [key[0], Number(key.slice(2))];
-      const name = (p === 'b' ? basic : adv)[i];
-      const extra = await apply(actor, name);
-      if (extra === null) continue;
-      const field = p === 'b' ? 'improvements' : 'advancedimprovements';
-      const cur = actor.system.attributes?.[field]?.value ?? '';
-      const note = `<p>${esc(name)}${extra ? ` — ${esc(extra)}` : ''}</p>`;
-      if (actor.system.attributes?.[field]) await actor.update({ [`system.attributes.${field}.value`]: cur + note });
-      done.push(key); left = Math.max(0, left - 1);
-      await actor.setFlag(MOD, 'taken', done);
-      await actor.setFlag(MOD, 'pending', left);
-    }
-  }, { once: true });
-  dlg.render({ force: true });
+  const chosen = Array.isArray(res) ? res : [];
+  if (!chosen.length) return;
+  let left = pending;
+  const done = [...taken];
+  for (const key of chosen) {
+    const [p, i] = [key[0], Number(key.slice(2))];
+    const name = (p === 'b' ? basic : adv)[i];
+    const extra = await apply(actor, name);
+    if (extra === null) continue;
+    const field = p === 'b' ? 'improvements' : 'advancedimprovements';
+    const cur = actor.system.attributes?.[field]?.value ?? '';
+    const note = `<p>${esc(name)}${extra ? ` — ${esc(extra)}` : ''}</p>`;
+    if (actor.system.attributes?.[field]) await actor.update({ [`system.attributes.${field}.value`]: cur + note });
+    done.push(key); left = Math.max(0, left - 1);
+    await actor.setFlag(MOD, 'taken', done);
+    await actor.setFlag(MOD, 'pending', left);
+  }
 }
 
 async function levelUp(actor) {

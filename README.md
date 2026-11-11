@@ -37,6 +37,9 @@ La flèche à côté du niveau s'allume quand les cinq cases d'expérience sont 
 **🗡️ Un compendium Équipement**
 Plus de 200 objets (armes, armures, transports, matériel, attaques de base, options) avec leurs étiquettes. Les listes d'équipement des livrets y renvoient directement.
 
+**🧙 Assistant de création**
+Après le choix du livret et des manœuvres, la fiche enchaîne sur l'apparence et les caractéristiques, puis sur une fenêtre de matériel propre au livret (objets fournis, choix avec quotas). Un bandeau permet de reprendre à tout moment.
+
 **🎨 Environ 680 icônes**
 Manœuvres, objets, étiquettes d'amélioration, livrets : chacun a son pictogramme, avec un code couleur par catégorie.
 

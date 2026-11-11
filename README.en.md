@@ -37,6 +37,9 @@ The arrow next to the level lights up when all five experience boxes are marked.
 **🗡️ An Equipment compendium**
 200+ items (weapons, armour, transport, gear, base attacks, options) with their tags. The playbooks' gear lists link straight to them.
 
+**🧙 Character creation assistant**
+After you pick a playbook and its moves, the sheet moves on to look and ratings, then to a gear window specific to the playbook (fixed items, choices with exact quotas). A banner lets you resume at any time.
+
 **🎨 About 680 icons**
 Moves, items, improvement tags, playbooks: each has its own pictogram, colour-coded by category.
 
