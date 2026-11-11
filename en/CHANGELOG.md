@@ -2,6 +2,14 @@
 
 All changes made since the base version (**0.4.5**, motw-for-pbta by Rangertheman, Foundry v12). The English edition shares its version numbers with the French edition.
 
+## [0.14.0] — Choice windows on level-up
+### Added
+- Level-up: improvements that used to be only written down by hand now open a choice window.
+  - **Haven** ("Get a haven", "Add an option to your haven", laboratory, workshop, mystical library): lists the Expert's haven options, enforces the exact number and excludes those already taken. The chosen options are added to the character's moves.
+  - **Basic moves marked as advanced** ("Mark two of the basic moves as advanced", "another two"): pick among the basic moves not yet marked; they are flagged on the character (internal flag) and noted.
+  - **Ally, team, chapter, Guide, Rotes, tags to delete, etc.**: a window asks for a name and details, noted with the improvement.
+  - **Retire this hunter** (the character's name gets "(retired)"), **Create a second hunter** (opens actor creation), **Change this hunter to a new type** (pick the new playbook) and **free yourself from the curse** (−1 Weird).
+
 ## [0.13.0] — English edition
 ### Added
 - **Character creation assistant**: once the playbook and moves are chosen, the sheet switches to the Description tab (look and ratings), then to the Equipment tab, where a window offers the playbook's gear.

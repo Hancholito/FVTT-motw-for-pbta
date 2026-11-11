@@ -12,7 +12,7 @@
       "flags": {}
     }
   ],
-  "version": "0.13.0",
+  "version": "0.14.0",
   "compatibility": {
     "minimum": "14",
     "verified": "14"
@@ -382,5 +382,5 @@
   "bugs": "https://github.com/Hancholito/FVTT-motw-for-pbta/issues",
   "readme": "https://github.com/Hancholito/FVTT-motw-for-pbta#readme",
   "manifest": "https://github.com/Hancholito/FVTT-motw-for-pbta/releases/latest/download/module-en.json",
-  "download": "https://github.com/Hancholito/FVTT-motw-for-pbta/releases/download/v0.13.0/motw-for-pbta-en.zip"
+  "download": "https://github.com/Hancholito/FVTT-motw-for-pbta/releases/download/v0.14.0/motw-for-pbta-en.zip"
 }

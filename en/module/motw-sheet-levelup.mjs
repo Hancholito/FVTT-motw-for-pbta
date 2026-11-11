@@ -1,5 +1,6 @@
 // Montée de niveau : le bouton « flèche » de la fiche ouvre la liste des améliorations du livret
 // et applique automatiquement les effets (caractéristiques, manœuvres, Chance).
+import { applyManual } from './motw-sheet-choices.mjs';
 const MOD = 'motw-for-pbta-en';
 const { DialogV2 } = foundry.applications.api;
 const STATS = { weird: 'weird', charm: 'charm', cool: 'cool', sharp: 'sharp', tough: 'tough' };
@@ -73,6 +74,7 @@ async function chooseMove(actor, other) {
 }
 
 async function apply(actor, name) {
+  name = name.replace(/\u00a0/g, ' ');
   // renvoie le complément de texte à noter, ou null si annulé
   const fs = fixedStat(name);
   if (fs || anyStat(name)) {
@@ -90,6 +92,8 @@ async function apply(actor, name) {
     if (v > 0) await actor.update({ 'system.attributes.luck.value': v - 1 });
     return '';
   }
+  const manual = await applyManual(actor, name);
+  if (manual !== undefined) return manual;
   return ''; // effet à gérer à la main : on le note simplement
 }
 

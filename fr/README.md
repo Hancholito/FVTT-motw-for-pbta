@@ -4,7 +4,7 @@ An add-on module for Asacolips' Powered by the Apocalypse (PbtA) system for Foun
 
 The module also includes playbooks from Monster of the Week: Tome of Mysteries, and MotW: Hardcover Edition, plus Special (Luck) Moves, More Flexible Investigations, and Alternative Weird Basic Moves.
 
-The French edition also includes ten extra playbooks (La Créature, Le Dur à Cuire, Le Fureteur, L'Exilé, Le Gamin Fouinard, Le Luchador, Le Savant Fou, L'Invoqué, Le Chasseur de Gros Gibier, Le Scientifique Déchaîné), from the French PDF "Livrets de chasseurs supplémentaires". Their authors, where credited: Reid San Filippo (La Créature, Le Luchador, Le Savant Fou, Le Chasseur de Gros Gibier) and Steve Hickey (L'Invoqué).
+The French edition also includes nine extra playbooks (La Créature, Le Dur à Cuire, L'Exilé, Le Gamin Fouinard, Le Luchador, Le Savant Fou, L'Invoqué, Le Chasseur de Gros Gibier, Le Scientifique Déchaîné), from the French PDF "Livrets de chasseurs supplémentaires". Their authors, where credited: Reid San Filippo (La Créature, Le Luchador, Le Savant Fou, Le Chasseur de Gros Gibier) and Steve Hickey (L'Invoqué).
 
 ## Installation
 
@@ -126,6 +126,15 @@ Quand on ajoute un livret à une fiche vierge, une fois la fenêtre des manœuvr
 - puis sur l'onglet **Équipement**, où une fenêtre propose le matériel du livret : les objets fournis sont ajoutés d'office, et il faut cocher les choix demandés (« deux armes parmi… ») avec le nombre exact imposé ;
 - un bandeau « Création du personnage » reste en haut de la fiche tant que la création n'est pas terminée : fermer une fenêtre ne perd rien, on reprend où on s'était arrêté ;
 - le MJ peut terminer la création sans tout faire, ou rouvrir la fenêtre de matériel depuis l'onglet Équipement (utile pour les personnages déjà créés).
+
+## Version 0.14.0 — Fenêtres de choix à la montée de niveau
+
+Les améliorations qui n'étaient que notées à la main ouvrent maintenant une fenêtre :
+- **refuge** : choix parmi les options de refuge de l'Expert (nombre imposé, sans doublon), ajoutées aux manœuvres ;
+- **manœuvres de base avancées** : choix des manœuvres à marquer ;
+- **allié, équipe, chapitre, Guide, Rituels, tags à retirer…** : nom et précisions, notés avec l'amélioration ;
+- **retraite** (« (retraité) » ajouté au nom), **second chasseur** (ouvre la création d'acteur), **changement de type** (choix du nouveau livret), **libération de la malédiction** (−1 Bizarre).
+Le Fureteur est retiré (doublon du Fouineur).
 
 ## Problèmes connus et pistes d'amélioration
 

@@ -37,6 +37,9 @@ La flèche à côté du niveau s'allume quand les cinq cases d'expérience sont 
 **🗡️ Un compendium Équipement**
 Plus de 200 objets (armes, armures, transports, matériel, attaques de base, options) avec leurs étiquettes. Les listes d'équipement des livrets y renvoient directement.
 
+**⬆️ Montée de niveau**
+Les améliorations à choix (refuge, manœuvres de base avancées, allié ou équipe, retraite, second chasseur, changement de type) ouvrent une fenêtre au lieu d'être notées à la main.
+
 **🧙 Assistant de création**
 Après le choix du livret et des manœuvres, la fiche enchaîne sur l'apparence et les caractéristiques, puis sur une fenêtre de matériel propre au livret (objets fournis, choix avec quotas). Un bandeau permet de reprendre à tout moment.
 
@@ -47,14 +50,14 @@ Manœuvres, objets, étiquettes d'amélioration, livrets : chacun a son pictogra
 Le chapitre « Prêt à l'action » du manuel (p. 105-137), traduit et découpé en entrées de journal consultables en jeu.
 
 **🧛 Tous les livrets**
-Les 18 livrets du manuel, du Tome of Mysteries et de l'Hardcover Edition, plus **10 livrets supplémentaires** en édition française (La Créature, Le Dur à Cuire, Le Fureteur, L'Exilé, Le Gamin Fouinard, Le Luchador, Le Savant Fou, L'Invoqué, Le Chasseur de Gros Gibier, Le Scientifique Déchaîné). Sans oublier les manœuvres de base, de Chance, les enquêtes plus flexibles et les manœuvres étranges alternatives.
+Les 18 livrets du manuel, du Tome of Mysteries et de l'Hardcover Edition, plus **9 livrets supplémentaires** en édition française (La Créature, Le Dur à Cuire, L'Exilé, Le Gamin Fouinard, Le Luchador, Le Savant Fou, L'Invoqué, Le Chasseur de Gros Gibier, Le Scientifique Déchaîné). Sans oublier les manœuvres de base, de Chance, les enquêtes plus flexibles et les manœuvres étranges alternatives.
 
 ## Deux éditions
 
 | | Édition française | English edition |
 |---|---|---|
 | Identifiant | `motw-for-pbta` | `motw-for-pbta-en` |
-| Contenu | 34 compendiums traduits (dont 10 livrets supplémentaires) + *Jouer un chasseur* | textes d'origine + Equipment compendium + 9 livrets supplémentaires (traduction non officielle) |
+| Contenu | 33 compendiums traduits (dont 9 livrets supplémentaires) + *Jouer un chasseur* | textes d'origine + Equipment compendium + 9 livrets supplémentaires (traduction non officielle) |
 | Manifeste | `https://github.com/Hancholito/FVTT-motw-for-pbta/releases/latest/download/module-fr.json` | `https://github.com/Hancholito/FVTT-motw-for-pbta/releases/latest/download/module-en.json` |
 
 ⚠️ N'activez qu'**une seule** des deux dans un même monde, et jamais avec le module d'origine : elles configurent les mêmes fiches.
@@ -88,7 +91,7 @@ An unofficial, free **Foundry VTT v14** edition of the Monster of the Week modul
 - Module d'origine : [motw-for-pbta](https://github.com/Rangertheman/motw-for-pbta) de Krister Persson (Rangertheman), licence MIT.
 - Système PbtA pour Foundry : Asacolips.
 - Livrets additionnels : *Tome of Mysteries* (Le Privé : Mark Tygart, L'Envoûteur : Bruno Dias, Le Pararomantique : Michał Werder, Le Chercheur : Michael Sands), *Hardcover Edition* (Le Fouineur, Le Spectaculaire : Michael Sands).
-- Livrets supplémentaires (édition française) : La Créature, Le Luchador, Le Savant Fou et Le Chasseur de Gros Gibier de Reid San Filippo, L'Invoqué de Steve Hickey ; Le Dur à Cuire, Le Fureteur, L'Exilé, Le Gamin Fouinard et Le Scientifique Déchaîné (auteurs non crédités dans le PDF source).
+- Livrets supplémentaires (édition française) : La Créature, Le Luchador, Le Savant Fou et Le Chasseur de Gros Gibier de Reid San Filippo, L'Invoqué de Steve Hickey ; Le Dur à Cuire, L'Exilé, Le Gamin Fouinard et Le Scientifique Déchaîné (auteurs non crédités dans le PDF source).
 - Icônes : [game-icons.net](https://game-icons.net) (CC BY 3.0, certaines CC0), recolorées. Détail des auteurs dans `icons/CREDITS.json`.
 - Utilisé selon la [Third Party License](https://genericgames.co.nz/third_party_policy/) de Generic Games.
 

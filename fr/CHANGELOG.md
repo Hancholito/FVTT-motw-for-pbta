@@ -3,6 +3,16 @@
 Toutes les modifications apportées depuis la version de base (**0.4.5**, motw-for-pbta de Rangertheman, Foundry v12).
 Le format suit [Keep a Changelog](https://keepachangelog.com/fr/).
 
+## [0.14.0] — Fenêtres de choix à la montée de niveau
+### Ajouté
+- Montée de niveau : les améliorations qui n'étaient que notées à la main ouvrent maintenant une fenêtre de choix.
+  - **Refuge** (« Obtenir un refuge », « Ajouter une option à votre refuge », laboratoire, atelier, bibliothèque mystique) : liste les options de refuge de l'Expert, en bloque le nombre exact et exclut celles déjà prises. Les options choisies sont ajoutées aux manœuvres du personnage.
+  - **Manœuvres de base avancées** (« Marquer deux manœuvres de base comme avancées » et « deux autres ») : choix parmi les manœuvres de base pas encore marquées ; elles sont repérées sur la fiche (fanion interne) et notées.
+  - **Allié, équipe, chapitre, Guide, Rituels, tags à retirer, etc.** : une fenêtre demande un nom et des précisions, qui sont notés avec l'amélioration.
+  - **Mettre ce chasseur à la retraite** (le nom du personnage reçoit « (retraité) »), **Créer un second chasseur** (ouvre la création d'acteur), **Changer ce chasseur en un nouveau type** (choix du nouveau livret) et **se libérer de la malédiction** (−1 Bizarre).
+### Modifié
+- Le Fureteur (autre traduction du Fouineur de l'édition Hardcover) est retiré : le Fouineur existe déjà dans le module. 9 livrets supplémentaires restent ; 16 objets et 3 étiquettes qui n'étaient utilisés que par lui sont retirés.
+
 ## [0.13.0] — Dix livrets supplémentaires
 ### Ajouté
 - **Assistant de création de personnage** : une fois le livret et les manœuvres choisis, la fiche passe automatiquement sur l'onglet Description (apparence et caractéristiques), puis sur l'onglet Équipement où une fenêtre propose le matériel du livret.

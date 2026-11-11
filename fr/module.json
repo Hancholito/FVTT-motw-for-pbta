@@ -10,7 +10,7 @@
       "flags": {}
     }
   ],
-  "version": "0.13.0",
+  "version": "0.14.0",
   "compatibility": {
     "minimum": "14",
     "verified": "14"
@@ -403,18 +403,6 @@
       }
     },
     {
-      "label": "Le Fureteur [Suppl.]",
-      "type": "Item",
-      "name": "the-snooper-ext",
-      "path": "packs/the-snooper-ext",
-      "system": "pbta",
-      "flags": {},
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
-    },
-    {
       "label": "L’Exilé [Suppl.]",
       "type": "Item",
       "name": "the-exile-ext",
@@ -502,5 +490,5 @@
   "bugs": "https://github.com/Hancholito/FVTT-motw-for-pbta/issues",
   "readme": "https://github.com/Hancholito/FVTT-motw-for-pbta#readme",
   "manifest": "https://github.com/Hancholito/FVTT-motw-for-pbta/releases/latest/download/module-fr.json",
-  "download": "https://github.com/Hancholito/FVTT-motw-for-pbta/releases/download/v0.13.0/motw-for-pbta-fr.zip"
+  "download": "https://github.com/Hancholito/FVTT-motw-for-pbta/releases/download/v0.14.0/motw-for-pbta-fr.zip"
 }

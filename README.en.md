@@ -37,6 +37,9 @@ The arrow next to the level lights up when all five experience boxes are marked.
 **🗡️ An Equipment compendium**
 200+ items (weapons, armour, transport, gear, base attacks, options) with their tags. The playbooks' gear lists link straight to them.
 
+**⬆️ Level-up**
+Improvements that involve a choice (haven, basic moves marked as advanced, ally or team, retirement, second hunter, change of type) open a window instead of being written down by hand.
+
 **🧙 Character creation assistant**
 After you pick a playbook and its moves, the sheet moves on to look and ratings, then to a gear window specific to the playbook (fixed items, choices with exact quotas). A banner lets you resume at any time.
 
@@ -47,14 +50,14 @@ Moves, items, improvement tags, playbooks: each has its own pictogram, colour-co
 The rulebook chapter on playing a hunter (pp. 105–137), translated and split into journal entries you can consult in play.
 
 **🧛 All the playbooks**
-The 18 playbooks, plus extra playbooks (10 in the French edition, 9 in the English one — The Snooper is already covered by the Snoop [HE]; the English extras are an unofficial translation from the French): basic moves, other moves, Tome of Mysteries, Hardcover Edition, Luck moves, more flexible investigations, alternative weird basic moves.
+The 18 playbooks, plus extra playbooks (9 in each edition; the English extras are an unofficial translation from the French. The Snooper is not included, the Snoop already exists): basic moves, other moves, Tome of Mysteries, Hardcover Edition, Luck moves, more flexible investigations, alternative weird basic moves.
 
 ## Two editions
 
 | | French edition | English edition |
 |---|---|---|
 | Id | `motw-for-pbta` | `motw-for-pbta-en` |
-| Content | 34 translated compendiums (incl. 10 extra playbooks) + *Playing a Hunter* | Original version + Equipment compendium + 9 extra playbooks |
+| Content | 33 translated compendiums (incl. 9 extra playbooks) + *Playing a Hunter* | Original version + Equipment compendium + 9 extra playbooks |
 | Manifest | `https://github.com/Hancholito/FVTT-motw-for-pbta/releases/latest/download/module-fr.json` | `https://github.com/Hancholito/FVTT-motw-for-pbta/releases/latest/download/module-en.json` |
 
 ⚠️ Enable only **one** of the two in a given world, and never alongside the original module: they configure the same sheets.
